@@ -16,19 +16,25 @@ const categories = [
 const strip = text => (text || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 const categoryFor = text => categories.find(([,re])=>re.test(text))?.[0] || 'מפלגות';
 const fetched = [];
+let successfulSources = 0;
 for (const source of sources.filter(s=>s.enabled)) {
   try {
     const feed = await parser.parseURL(source.feed);
+    successfulSources += 1;
     for (const item of feed.items.slice(0, 25)) {
       const text = `${item.title || ''} ${strip(item.contentSnippet || item.content || '')}`;
       if (!electionWords.test(text) || !item.link) continue;
-      const summary = strip(item.contentSnippet || item.content || '').slice(0, 280);
+      const excerpt = strip(item.contentSnippet || item.content || '').slice(0, 280);
       fetched.push({ id: `${source.id}-${Buffer.from(item.guid || item.link).toString('base64url').slice(0,30)}`, title: strip(item.title), source: source.name,
         author: strip(item.creator || item.author || ''), publishedAt: new Date(item.isoDate || item.pubDate || Date.now()).toISOString(), url: item.link,
-        category: categoryFor(text), parties: [], people: [], summary: summary ? `${summary}${summary.length === 280 ? '…' : ''}` : 'תקציר אינו זמין בפיד. ניתן לקרוא את הפרסום המלא בקישור למקור.', cluster: null });
+        category: categoryFor(text), parties: [], people: [], excerpt: excerpt ? `${excerpt}${excerpt.length === 280 ? '…' : ''}` : '', excerptLabel: 'קטע מתיאור ה־RSS של המקור', cluster: null });
     }
     console.log(`✓ ${source.name}: feed updated`);
   } catch (error) { console.warn(`⚠ ${source.name}: ${error.message}; keeping existing stories`); }
+}
+if (successfulSources === 0) {
+  console.error('No source could be fetched; leaving the existing data file unchanged.');
+  process.exit(1);
 }
 const merged = [...fetched, ...existing.stories].filter((story,index,all)=>index===all.findIndex(x=>x.url===story.url)).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,300);
 await writeFile(dataPath, JSON.stringify({updatedAt:new Date().toISOString(),stories:merged},null,2)+'\n');

@@ -1,11 +1,4 @@
 {
-  "updatedAt":"2026-08-26T09:00:00Z",
-  "stories":[
-    {"id":"kan-election-committee","title":"ועדת הבחירות נערכת להרחבת מערך ההצבעה","source":"כאן 11","author":"מערכת כאן חדשות","publishedAt":"2026-08-26T07:30:00Z","url":"https://www.kan.org.il/","category":"קמפיינים","parties":[],"people":[],"summary":"ועדת הבחירות תיארה את ההיערכות הלוגיסטית ואת הצעדים שנבחנים לשיפור הנגישות לקלפיות. המידע המלא והעדכני נמצא בפרסום המקורי.","cluster":"preparations"},
-    {"id":"toi-coalitions","title":"Parties examine possible coalition paths ahead of election","source":"The Times of Israel","author":"Political correspondent","publishedAt":"2026-08-26T06:45:00Z","url":"https://www.timesofisrael.com/","category":"תרחישי קואליציה","parties":["הליכוד","יש עתיד","המחנה הממלכתי"],"people":[],"summary":"במפלגות בוחנים שילובים אפשריים להרכבת ממשלה. הכתבה מדגישה כי ההצהרות הפומביות עשויות להשתנות במהלך הקמפיין.","cluster":"coalition"},
-    {"id":"bbc-israel-election","title":"Israel parties prepare for an election campaign","source":"BBC News","author":"BBC News","publishedAt":"2026-08-25T18:20:00Z","url":"https://www.bbc.com/news/world/middle_east","category":"מפלגות","parties":["הליכוד","יש עתיד"],"people":["בנימין נתניהו","יאיר לפיד"],"summary":"סקירה בינלאומית של פתיחת ההיערכות במפלגות ושל הסוגיות המרכזיות הצפויות לעמוד במוקד מערכת הבחירות.","cluster":"preparations"},
-    {"id":"reuters-economy","title":"Israeli election debate turns to cost of living","source":"Reuters","author":"Reuters","publishedAt":"2026-08-25T15:10:00Z","url":"https://www.reuters.com/world/middle-east/","category":"כלכלה","parties":[],"people":[],"summary":"יוקר המחיה והמדיניות התקציבית מקבלים מקום מרכזי בשיח לקראת הבחירות, לצד מחלוקת בין המפלגות על סדרי העדיפויות.","cluster":"economy"},
-    {"id":"ynet-security","title":"המפלגות מציגות את עמדותיהן בסוגיות ביטחון","source":"ynet","author":"כתבי ynet","publishedAt":"2026-08-25T12:05:00Z","url":"https://www.ynet.co.il/news","category":"ביטחון","parties":["הליכוד","המחנה הממלכתי"],"people":["בני גנץ"],"summary":"נציגי מפלגות הציגו קווים כלליים למדיניות הביטחון. הכתבה משווה בין הדגשים שעלו בהצהרות, ללא הכרעה ביניהם.","cluster":"security"},
-    {"id":"haaretz-legal","title":"הוויכוח המשפטי חוזר למרכז השיח הפוליטי","source":"הארץ","author":"הכתב הפוליטי","publishedAt":"2026-08-24T20:00:00Z","url":"https://www.haaretz.co.il/news/elections","category":"משפט וממשל","parties":[],"people":[],"summary":"סוגיות הנוגעות ליחסי הרשויות ולמערכת המשפט חוזרות לשיח. העמדות המובאות בפרסום משקפות מחלוקת ציבורית ופוליטית מתמשכת.","cluster":"legal"}
-  ]
+  "updatedAt": null,
+  "stories": []
 }
