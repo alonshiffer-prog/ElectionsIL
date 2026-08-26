@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
     "update-data": "node scripts/update-news.mjs",
+    "test": "node --test",
     "check": "node scripts/validate-data.mjs"
   },
   "dependencies": {
