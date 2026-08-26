@@ -1,0 +1,8 @@
+[
+  {"id":"kan","name":"כאן 11","type":"ישראלי ציבורי","feed":"https://www.kan.org.il/rss/news.xml","enabled":true},
+  {"id":"ynet","name":"ynet","type":"ישראלי","feed":"https://www.ynet.co.il/Integration/StoryRss2.xml","enabled":true},
+  {"id":"haaretz","name":"הארץ","type":"ישראלי","feed":"https://www.haaretz.co.il/srv/haaretz-latest-headlines","enabled":true},
+  {"id":"timesofisrael","name":"The Times of Israel","type":"ישראלי, אנגלית","feed":"https://www.timesofisrael.com/feed/","enabled":true},
+  {"id":"reuters","name":"Reuters","type":"בינלאומי","feed":"https://feeds.reuters.com/reuters/worldNews","enabled":true},
+  {"id":"bbc","name":"BBC News","type":"בינלאומי","feed":"https://feeds.bbci.co.uk/news/world/middle_east/rss.xml","enabled":true}
+]
