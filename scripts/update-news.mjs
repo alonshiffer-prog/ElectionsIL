@@ -115,6 +115,8 @@ export async function updateNews({
   const successful = results.filter(result => result.succeeded);
   if (successful.length === 0) {
     logger.warn('No source could be fetched; leaving the existing data file unchanged (no fallback news generated).');
+    logger.log(`Update failed in ${((Date.now() - startedAt) / 1000).toFixed(1)}s; 0/${sources.length} sources succeeded.`);
+    throw new Error(`Election news update failed: none of the ${sources.length} enabled sources could be fetched`);
   } else {
     const merged = mergeStories(results, existing.stories);
     const fetchedCount = successful.reduce((total, result) => total + result.stories.length, 0);
