@@ -8,12 +8,14 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
       - run: npm install
       - run: npm run update-data
+      - run: npm test
       - run: npm run check
       - name: Commit changed data
         run: |
