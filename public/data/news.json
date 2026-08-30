@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-30T18:24:53.059Z",
+  "updatedAt": "2026-08-30T21:24:48.823Z",
   "stories": [
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "תעודת עניות: איפה הנשים ברשימות?",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-08-30T21:03:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14883251",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "העובדה שבבחירות לכנסת ה-26 אין נשים שעומדות בראשות מפלגה שתצליח להיבחר, היא תעודת עניות לחברה הישראלית",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "קח אותי, איתמר",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-08-30T21:03:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14883450",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "מבחינת האג'נדה שלו, אין ולו שר אחד בממשלה הכושלת הזאת שיכול להשתוות לסמוטריץ'. אף על פי כן, שום מפלגה לא מוכנה לתת לו מקלט ברשימתה: הוא מבריח מצביעים",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "באוצר הודפים את טענות מערכת הביטחון: \"משקף ניהול רשלני בכל הקשור לתקציב\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-08-30T20:14:08.000Z",
+      "url": "https://www.ynet.co.il/news/article/skpwuawofg",
+      "category": "כלכלה",
+      "parties": [],
+      "people": [],
+      "excerpt": "אחרי שבמערכת הביטחון התריעו כי אגף התקציבים בולם העברת 15 מיליארד שקלים בזמן של מחסור חמור בהאמרים וחימושים, יוצאים בכירי האוצר למתקפת נגד. לדבריהם, \"התקציב 'שוכב' בוועדת הכספים של הכנסת. זאת חוצפה שאין שנייה לה לומר שזה תקוע באוצר. הם מפריחים ספינים שנועדו להפחדת הציבור\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "הוועדה הציבורית המייעצת תמליץ לשרים: אשרו אבטחת שב\"כ לאיזנקוט עד הבחירות",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-08-30T19:32:11.000Z",
+      "url": "https://www.ynet.co.il/news/article/bjjnfwz00gg",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "הוועדה הציבורית הודיעה בתום דיון עם גורמי הביטחון שתמליץ לוועדת השרים לענייני שב\"כ לאשר להעניק אבטחה לאיזנקוט, אף שעד כה ראש השב\"כ התנגד לכך. את ההכרעה הסופית יקבלו השרים, אבטחת יאיר גולן תדון בהמשך",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
       "title": "אחרי התלונה במשטרה, בליכוד עדכנו רשמית: גמליאל נדחקה למקום ה-35",
