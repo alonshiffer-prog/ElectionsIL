@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-01T18:33:18.508Z",
+  "updatedAt": "2026-09-01T21:28:47.503Z",
   "stories": [
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2",
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "source": "BBC News",
+      "author": "",
+      "publishedAt": "2026-09-01T21:24:22.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "רגע לפני חצות: לכו ישר וביחד",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-01T21:03:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14885616",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "עוד היום חייבים גדי איזנקוט ונפתלי בנט להקים את המפלגה הלאומית-ליברלית הגדולה, אשר רק בה תהיה די עוצמה כדי לעמוד מול הצונאמי הלאומני",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "מהלך שנועד \"לדפוק את השיטה\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-01T21:02:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14886019",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "המפלגות הקיימות יצרו מחסומים ציניים למניעת תחרות. השיטה להילחם בכך היא הקמה צינית של סיעות שיתמודדו לכנסת תחת דגל של התגברות על אחוז החסימה",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
       "title": "לנקרי: \"סירוב פקודה בגלל אישה? התבלבלנו\", שיקלי: \"לשילוב תלמידי ישיבה יש מחיר\" | זירת הבחירות",
@@ -31,7 +73,7 @@
     },
     {
       "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
-      "title": "זה מה שנשאר: ההתפרקות של \"יש עתיד\" - תוך ארבע שנים",
+      "title": "זה מה שנשאר: ההתפרקות של \"יש עתיד\"",
       "source": "ynet",
       "author": "",
       "publishedAt": "2026-09-01T16:56:51.000Z",
