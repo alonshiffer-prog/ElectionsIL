@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-09-02T03:29:47.191Z",
+  "updatedAt": "2026-09-02T06:39:06.931Z",
   "stories": [
     {
       "id": "bbc-aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2",
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
       "source": "BBC News",
       "author": "",
-      "publishedAt": "2026-09-02T03:19:44.000Z",
+      "publishedAt": "2026-09-02T06:26:35.000Z",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "category": "ביטחון",
       "parties": [],
       "people": [],
-      "excerpt": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+      "excerpt": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "הקמפיין המטונף בתולדות מדינת ישראל - והאמת",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-02T05:33:50.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/bkuv17bdze",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "המצב הקשה בסקרים הוביל את משפחת נתניהו לשחרר את פצצת הסירחון של תיאוריות הבגידה כבר כעת. במקום לקחת אחריות על מחדל 7/10, מופצות בדיות במטרה לצייד את התומכים בתשובות. אך ניסיון המילוט והפיכת רה\"מ לקורבן נתקלים בעובדות פשוטות שכבר ידועות - והכישלון עמוק בהרבה. רה\"מ, כמנהיג המדינה, …",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
