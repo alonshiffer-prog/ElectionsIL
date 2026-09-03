@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-03T09:30:52.210Z",
+  "updatedAt": "2026-09-03T12:36:39.102Z",
   "stories": [
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "התפרקות יש עתיד נמשכת: גם השרה לשעבר קארין אלהרר מחוץ לרשימה לכנסת",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-03T12:18:19.000Z",
+      "url": "https://www.ynet.co.il/news/article/syfbsjwdze",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "שרת האנרגיה לשעבר, שכיהנה כח\"כית מאז 2013, מצטרפת לרשימה הארוכה של חברי הסיעה שלא יהיו בכנסת הבאה. \"לאחר התייעצות עם משפחתי החלטתי לעבור הלאה לאתגר חדש\", כתבה",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
       "title": "התוכנית כבר נכשלה, אבל בן גביר יוצא בקמפיין טרנספר שיסבך את ישראל",
