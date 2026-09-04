@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-04T15:30:34.013Z",
+  "updatedAt": "2026-09-04T18:30:38.097Z",
   "stories": [
+    {
+      "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
+      "title": "אחרי העדויות על הטרדות מיניות: בכיר הרשימה המשותפת פורש מהמרוץ לכנסת",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-04T15:27:12.000Z",
+      "url": "https://www.ynet.co.il/news/article/rkcagdouzl",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "מקום 2 ברשימת חד\"ש ו-4 ברשימה המשותפת, ג'עפר פרח, נאלץ לפרוש ברקע העדויות על הטרדה מינית נגדו. בהודעתה, מפלגת חד\"ש גוננה עליו והחמיאה לו על \"אחריות ואומץ רב\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-aHR0cHM6Ly93d3cueW5ldC5jby5pbC",
       "title": "למה מדברים פתאום על \"היפוך קנים\" - והאם צה\"ל נערך",
