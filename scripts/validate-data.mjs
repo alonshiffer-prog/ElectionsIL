@@ -1,7 +1,18 @@
 import { readFile } from 'node:fs/promises';
-for (const file of ['public/sources.json','public/data/news.json','public/data/polls.json']) {
-  const data=JSON.parse(await readFile(file,'utf8')); if(!data) throw new Error(`${file} is empty`); console.log(`✓ ${file}`);
+import { assertValidPublicationData } from './data-validation.mjs';
+
+async function readJson(path) {
+  try {
+    return JSON.parse(await readFile(path, 'utf8'));
+  } catch (error) {
+    throw new Error(`${path}: ${error.message}`, { cause: error });
+  }
 }
-const news=JSON.parse(await readFile('public/data/news.json','utf8'));
-for(const story of news.stories){for(const field of ['title','source','publishedAt','url','category','excerptLabel'])if(!story[field])throw new Error(`${story.id}: missing ${field}`);new URL(story.url)}
+
+const sources = await readJson('public/sources.json');
+const news = await readJson('public/data/news.json');
+const polls = await readJson('public/data/polls.json');
+assertValidPublicationData({ sources, news, polls });
+console.log(`✓ ${sources.length} sources valid`);
 console.log(`✓ ${news.stories.length} stories valid`);
+console.log(`✓ ${polls.polls.length} polls valid`);
