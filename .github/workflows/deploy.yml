@@ -15,6 +15,7 @@ jobs:
            github.event.workflow_run.head_branch == 'main') }}
     environment: { name: github-pages, url: "${{ steps.deployment.outputs.page_url }}" }
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,7 +24,7 @@ jobs:
           ref: ${{ github.event_name == 'workflow_run' && 'main' || github.ref }}
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
-      - run: npm install
+      - run: npm ci
       - run: npm run check
       - run: npm run build
       - uses: actions/configure-pages@v5
