@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-09-06T15:28:08.196Z",
+  "updatedAt": "2026-09-06T16:36:57.428Z",
   "stories": [
+    {
+      "id": "ynet-UyN1veC3mRFUQVfsfTo3",
+      "title": "ליברמן מציג את הרשימה: שידור ישיר מהכנס של ישראל ביתנו",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-06T16:32:32.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/bki6ywjdge",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "אחרי שבחודשים האחרונים הצטרפו למפלגה בין היתר ח\"כ מהליכוד, ראש עיר לשעבר ששכל את בנו ב-7/10 ואנשי מילואים, בישראל ביתנו מציגים את הרשימה לכנסת לקראת הבחירות",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-Av0HPL-k5doW8DKf4s-A",
+      "title": "בנט ולפיד משיקים את רשימת \"ביחד\" לבחירות | ישיר",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-06T16:31:11.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/sjrmibiuzx",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "שני ראשי הממשלה לשעבר מציגים את הרשימה המשותפת שתתמודד בבחירות הקרובות, יומיים לפני המועד האחרון להגשת הרשימות. בנט ראשון, לפיד שני - ובעשירייה הראשונה 5 נשים, בכירים לשעבר בשירות הציבורי וגם בן 23",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-Ku4fANvdKb4jAace4ccL",
+      "title": "בן גביר הקפיא את כל המינויים במשטרה | הרשימה - והרקע לפיצוץ עם המפכ\"ל",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-06T15:45:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/b11htcquzx",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "למרות מחסור בבכירים, הודיע בן גביר יממה לפני סבב מינויים של 141 קצינים כי לא יאשר זאת עד הבחירות. ל-ynet נודע: הרקע - מינוי נצ\"מ תמר ליברטי לסגנית יועמ\"ש המשטרה. גורם בלשכתו: \"זה מינוי של היועמ\"שית\". בן גביר האשים את דני לוי ואמר: \"תמתין לשר הבא, מי שזה לא יהיה\". אלו רק חלק מהמינ…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-wrM8kBqxtZWUiAVGy5j_",
+      "title": "\"נהיה הפה של מאות אלפים\": הפיראטים ו\"שרשר\" בקרב על האותיות",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-06T15:32:50.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/sjsnags00zg",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "לקראת הבחירות לכנסת ה-26 נציגי הסיעות הגיעו לוועדת הבחירות המרכזית כדי להירשם. נציג \"שרשר\" הגיע עם כתר על ראשו והבטיח לייצג את הפוסט-טראומתיים. דניאל פלבר ממפלגת הפיראטים הצהיר: \"הכנסת לא יכולה לתת לכל אזרח מושב, אבל היא יכולה לתת לכל אזרח קול\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-wzU1Dacr_YgkcFkevvCC",
       "title": "\"לך תז***ן\": השר מהליכוד תועד מקלל את בעלה של השרה גמליאל",
@@ -40,20 +96,6 @@
       "parties": [],
       "people": [],
       "excerpt": "בנט פרסם את רשימת המפלגה לכנסת, שתשתלב עם מועמדי יש עתיד. מנכ\"לית משרדי התחבורה והאוצר קרן טרנר במקום השלישי, ואחריה מנכ\"לית משרד התקשורת לשעבר לירן אבישר בן חורין ומנכ\"לית עיריית רעננה בעבר מיכל הירש נגרי",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-Ku4fANvdKb4jAace4ccL",
-      "title": "רגע לפני סבב של 141 קצינים, הודיע בן גביר למפכ\"ל: כל המינויים מוקפאים עד לבחירות",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-06T12:21:52.000Z",
-      "url": "https://www.ynet.co.il/news/article/b11htcquzx",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "למרות מחסור בבכירים רבים, הודיע בן גביר יממה לפני סבב המינויים הנרחב כי לא יאשר זאת. ל-ynet נודע: הרקע לכך הוא מינוי של נצ\"מ ליברטי לסגנית יועמ\"ש המשטרה. גורם בלשכת השר: \"זה מינוי של היועמ\"שית\". בן גביר מסר: \"לא ראוי לערוך מינוי בכירים כחודש וחצי לפני הבחירות, הדבר עלול להיתפס כמ…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -576,6 +618,20 @@
       "cluster": null
     },
     {
+      "id": "guardian-israel-JxPe2yEsbdH_N543wEk5",
+      "title": "Far-right Israeli minister outlines plan for removal of all Palestinians from Gaza",
+      "source": "The Guardian",
+      "author": "Peter Beaumont Senior international correspondent",
+      "publishedAt": "2026-09-03T18:01:05.000Z",
+      "url": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "Itamar Ben-Gvir claims proposal for illegal forced displacement of 2 million people is ‘realistic’ and ‘concrete’ Israel’s far-right national security minister has set out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip, with the intention of sendi…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
       "id": "ynet-ph2MSueMSb7c9L7Wy6u6",
       "title": "המעבר אושר: טלי גוטליב תתמודד ברשימת עוצמה יהודית לכנסת",
       "source": "ynet",
@@ -586,6 +642,20 @@
       "parties": [],
       "people": [],
       "excerpt": "לא תוכרז כפורשת, תמשיך לכהן כח\"כית, יחידת המימון שלה תישאר בליכוד - אך תרוץ בכנסת הבאה בעוצמה יהודית: אושר המעבר של טלי גוטליב לעוצמה יהודית, שם תשוריין כנראה במקום הרביעי, אחרי המתקפה שלה נגד הליכוד בעקבות הבטן המלאה שלה על נתניהו ודאגתה מפני התמודדות עם כתב אישום ללא חסינות",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel--XMDdUMjeDizmHr93RAn",
+      "title": "US House passes bill penalizing universities that participate in boycott of Israel",
+      "source": "The Guardian",
+      "author": "Chris Stein in Washington",
+      "publishedAt": "2026-09-03T16:15:49.000Z",
+      "url": "https://www.theguardian.com/us-news/2026/sep/03/israel-boycott-university-ban-bill",
+      "category": "כלכלה",
+      "parties": [],
+      "people": [],
+      "excerpt": "GOP-backed bill mandates institutions receiving federal funds not impose restrictions on programs related to Israel The US House of Representatives on Thursday passed a Republican-backed bill that would penalize universities that participate in boycotts of Israel, or attempt to p…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -660,6 +730,20 @@
       "cluster": null
     },
     {
+      "id": "guardian-israel-Za2K3KoQdzOqb_VLSjhB",
+      "title": "Ben-Gvir posts Palestinians on conveyor belts to detention camps. The world is silent | Arwa Mahdawi",
+      "source": "The Guardian",
+      "author": "Arwa Mahdawi",
+      "publishedAt": "2026-09-03T10:00:51.000Z",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ben-gvir-palestinian-comments",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "Ben-Gvir did not come into power in a vacuum: he was helped into his position by an international community that has afforded Israel complete impunity Let me introduce you to Itamar Ben-Gvir, the leader of Israel’s far-right Jewish Power (Otzma Yehudit) party, the minister of nat…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
       "id": "ynet-htEZxyP8TiaNZGeq8wXS",
       "title": "התוכנית כבר נכשלה, אבל בן גביר יוצא בקמפיין טרנספר שיסבך את ישראל",
       "source": "ynet",
@@ -712,6 +796,20 @@
       "parties": [],
       "people": [],
       "excerpt": "יו\"ר ישר! אמר בוועידת ynet ו\"ידיעות אחרונות\" שלא השיג את רה\"מ במשך שעתיים אחרי הפלת המטוס שנפגע מאש נ\"מ סורית. לטענת גורם צבאי שחשוף לפרוטוקולים, נתניהו אישר מיד את תקיפת התגובה. איזנקוט הוסיף שנתניהו עצר תוכניות להמשך, אבל לפי הגורם - דווקא דחה תגובה נוספת, ואחה\"צ קבע: \"זה מאחור…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel-N4A6wdeHUAL5-_8NIyBw",
+      "title": "The Guardian view on Israeli settlements: Britain can no longer look away | Editorial",
+      "source": "The Guardian",
+      "author": "Editorial",
+      "publishedAt": "2026-09-02T17:29:38.000Z",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-israeli-settlements-britain-can-no-longer-look-away",
+      "category": "כלכלה",
+      "parties": [],
+      "people": [],
+      "excerpt": "International law, European action and UK public opinion point the same way. Britain should stop helping to sustain Israeli settlements economically In the Commons this week, the foreign secretary, Ed Miliband, appeared to have accepted the principle of a trade ban between the UK…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
