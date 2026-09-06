@@ -6,6 +6,7 @@ import { validateNews, validateSources } from './data-validation.mjs';
 const DEFAULT_TIMEOUT_MS = 15_000;
 const DEFAULT_CONCURRENCY = 3;
 const MAX_STORIES = 300;
+const MAX_FEED_ITEMS = 100;
 const electionWords = /בחיר|מפלג|סקר|קואליצ|כנסת|מועמד|election|poll|coalition|knesset|party/i;
 const categories = [
   ['סקרים', /סקר|poll/i], ['כלכלה', /כלכל|תקציב|יוקר|econom/i], ['ביטחון', /ביטחון|מלחמ|צבא|security|military/i],
@@ -66,7 +67,9 @@ export async function fetchSource(source, options = {}) {
     if (!feed || !Array.isArray(feed.items)) throw new Error('feed did not contain an items array');
     const stories = [];
     let rejectedItems = 0;
-    for (const item of feed.items.slice(0, 25)) {
+    // Broad feeds often publish more than 25 items between election-related stories.
+    // Scan farther without changing the deterministic relevance rule or store limit.
+    for (const item of feed.items.slice(0, MAX_FEED_ITEMS)) {
       const text = `${item.title || ''} ${strip(item.contentSnippet || item.content || '')}`;
       if (!electionWords.test(text) || !item.link) continue;
       let itemUrl;
