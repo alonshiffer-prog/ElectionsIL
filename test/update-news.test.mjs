@@ -53,6 +53,22 @@ test('malformed relevant items are rejected without failing valid items in the s
   assert.equal(first.stories[0].id, second.stories[0].id);
 });
 
+test('election stories beyond the first 25 feed entries are considered', async () => {
+  const items = Array.from({ length: 30 }, (_, index) => ({
+    title: index === 29 ? 'Fictional election report' : `Fictional general report ${index}`,
+    link: `https://example.test/report-${index}`,
+    pubDate: '2026-01-01T00:00:00Z'
+  }));
+  const result = await fetchSource(source('fictional'), {
+    parser: { parseString: async () => ({ items }) },
+    fetchImpl: async () => ({ ok: true, text: async () => '<rss />' }),
+    logger: silentLogger
+  });
+  assert.equal(result.succeeded, true);
+  assert.equal(result.stories.length, 1);
+  assert.equal(result.stories[0].title, 'Fictional election report');
+});
+
 test('existing stories from a failed source are retained when the result is capped', () => {
   const retained = { url: 'https://original.test/story', source: 'Broken', publishedAt: '2020-01-01T00:00:00.000Z' };
   const fresh = { url: 'https://working.test/new', source: 'Working', publishedAt: '2026-01-01T00:00:00.000Z' };
