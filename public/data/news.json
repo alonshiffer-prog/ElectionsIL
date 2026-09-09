@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-09T09:32:08.444Z",
+  "updatedAt": "2026-09-09T12:38:00.330Z",
   "stories": [
+    {
+      "id": "ynet-Q4nBWlWzqQ7ZaabzCBSw",
+      "title": "הצבעה בבחירות זה לא חיפוש מתכון, ניסוח מייל או עזרה בשיעורים",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-09T10:08:11.000Z",
+      "url": "https://www.ynet.co.il/news/article/skanajrogx",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "סקר חדש של איגוד האינטרנט הישראלי מצא כי רבע מהציבור הישראלי שוקל בחיוב או מתכוון להשתמש בצ'אט לצורך קבלת החלטה לקראת הבחירות. ההחלטה למי להצביע היא שלנו ורק שלנו",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-puDCm1SRvIBJ7ZiM04nU",
       "title": "\"מונע מתסכול אישי\": בגוש השינוי לוחצים על גנץ לפרוש, הוא מתעקש לרוץ עד הסוף",
@@ -73,7 +87,7 @@
     },
     {
       "id": "ynet-sF31n6CsZnmGv_A48ft9",
-      "title": "האמת לא משנה",
+      "title": "להיגיון אין מקום במרחב הקונספירטיבי הזה",
       "source": "ynet",
       "author": "",
       "publishedAt": "2026-09-08T21:04:00.000Z",
