@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-09T15:31:57.684Z",
+  "updatedAt": "2026-09-09T18:34:50.628Z",
   "stories": [
+    {
+      "id": "guardian-israel-zdhiyTc76B0lm4Z6QuP5",
+      "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
+      "source": "The Guardian",
+      "author": "Andrew Sparrow",
+      "publishedAt": "2026-09-09T16:49:09.000Z",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover sting Alex Burghart, the deputy Tory leader, was giving interviews this morning. On Israel, he opened up a new line of attack against the government, accus…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-tFQT-VCzpNI57hUIus7C",
+      "title": "המתקפה מתוך מועצת השלום: \"אין יום אחד של שקט, חמאס מפר אבל גם ישראל\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-09T16:45:22.000Z",
+      "url": "https://www.ynet.co.il/news/article/sy113lgjygx",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "גורמים במועצת השלום של טראמפ חשים כי התוכנית לא תתקדם לפני הבחירות בישראל, ומאמינים כי \"אם רק היה שבועיים של שקט היינו מצליחים להתחיל בפירוק הנשק\". וגם: ההסכמים המתגבשים לכוח הייצוב - והטענות שישראל \"מערימה קשיים\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-gfnbD9K5hGTFXQe654dA",
       "title": "טראמפ חגג \"!MGGA\", וקנצלר גרמניה ביטל שיחה: \"ה-AfD רוצה טיהור אתני למהגרים\"",
@@ -12,20 +40,6 @@
       "parties": [],
       "people": [],
       "excerpt": "3 ימים אחרי הניצחון ההיסטורי של מפלגת הימין הקיצוני \"אלטרנטיבה לגרמניה\" בסקסוניה-אנהלט התייצב פרידריך מרץ בפרלמנט, התעמת עם מנהיגתה, והאשים שאם מדיניות \"ההגירה החוזרת\" שלה תמומש יהיה זה טיהור \"על בסיס צבע עור ומוצא\", ושום בית חולים או מסעדה לא יוכלו לתפקד. היא לעגה לו: \"נטחנתם לא…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-zdhiyTc76B0lm4Z6QuP5",
-      "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – UK politics live",
-      "source": "The Guardian",
-      "author": "Andrew Sparrow",
-      "publishedAt": "2026-09-09T14:27:26.000Z",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover sting Alex Burghart, the deputy Tory leader, was giving interviews this morning. On Israel, he opened up a new line of attack against the government, accus…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
