@@ -1,9 +1,23 @@
 {
-  "updatedAt": "2026-09-10T06:37:07.637Z",
+  "updatedAt": "2026-09-10T09:31:42.860Z",
   "stories": [
     {
+      "id": "ynet-fswdmCqU4NwX2jrxfhnO",
+      "title": "מפנה מקום לג'יי די ואנס? דיווח: \"מרקו רוביו לא מתכנן לרוץ לנשיאות\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-10T06:45:09.000Z",
+      "url": "https://www.ynet.co.il/news/article/hjkvcpkkfl",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "חדשות מטרידות לישראל: NBC מדווחת שמזכיר המדינה, אחד מתומכיה הגדולים במפלגה הרפובליקנית, אמר למקורביו כי \"לפי שעה\" אין לו תוכנית לרוץ לנשיאות ב-2028, כשטראמפ יפנה את הכיסא. הוא נחשב למועמד בולט בפריימריז עתידיים, אך לפי סקר מהשבוע שעבר סגן הנשיא, שעלול להיות לעומתי לישראל, מוביל ע…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
       "id": "guardian-israel-gRoCRsbFO8-oZTe94CGS",
-      "title": "Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank",
+      "title": "Husic urges ‘concrete action’ on Israeli settlements in West Bank after Australia declines to join trade ban",
       "source": "The Guardian",
       "author": "Tom McIlroy Political editor",
       "publishedAt": "2026-09-10T06:14:55.000Z",
@@ -11,7 +25,7 @@
       "category": "משפט וממשל",
       "parties": [],
       "people": [],
-      "excerpt": "Australia declined to join move by UK, Canada and France in banning trade with illegal Israeli settlements Labor party members have criticised the federal government for not following the UK, Canada and France in banning trade with Israeli settlements in the West Bank, urging Pen…",
+      "excerpt": "Australia will not join move by UK, Canada and France in banning trade with Israeli settlements in West Bank Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Ed Husic has urged the Albanese government to take concr…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
