@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-10T09:31:42.860Z",
+  "updatedAt": "2026-09-10T12:37:55.965Z",
   "stories": [
+    {
+      "id": "bbc-88uB1agO74IbAV3cTVwW",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "source": "BBC News",
+      "author": "",
+      "publishedAt": "2026-09-10T10:43:53.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-fswdmCqU4NwX2jrxfhnO",
       "title": "מפנה מקום לג'יי די ואנס? דיווח: \"מרקו רוביו לא מתכנן לרוץ לנשיאות\"",
@@ -25,21 +39,7 @@
       "category": "משפט וממשל",
       "parties": [],
       "people": [],
-      "excerpt": "Australia will not join move by UK, Canada and France in banning trade with Israeli settlements in West Bank Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Ed Husic has urged the Albanese government to take concr…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "bbc-88uB1agO74IbAV3cTVwW",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "source": "BBC News",
-      "author": "",
-      "publishedAt": "2026-09-10T05:56:38.000Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "excerpt": "Australia will not join move by UK, Canada and France in banning trade with Israeli settlements in West Bank Get our new political email, free app or daily news podcast Ed Husic has urged the Albanese government to take concrete action against illegal Israeli settlements in the W…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
