@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-12T15:28:05.168Z",
+  "updatedAt": "2026-09-12T18:30:20.721Z",
   "stories": [
+    {
+      "id": "ynet-AQgWzw6l5_P5yXfWtj36",
+      "title": "וולקאם טו יהוד: 56 קולות הפרידו בין קואליציה לאופוזיציה, האם משהו השתנה?",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-12T16:06:03.000Z",
+      "url": "https://www.ynet.co.il/news/article/b1ilcdaozl",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "בבחירות האחרונות הצביעות תושבי יהוד חצי-חצי; גם 4 שנים אחרי, בעידן שאחרי 7/10, רבים נשארו באותו מקום: \"המחדל? הזמן עשה את שלו\". \"יש להם זיכרון של דג\", אמרה מיכל על אלה שתומכים בנתניהו. סיגל תצביע שוב לליכוד כי אין \"שחקן חדש ומשכנע\". ועל מה הבחירות? תלוי את מי שואלים - ובאיזה רחוב…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-8obONvVm22PAQkVJNn_m",
       "title": "\"המסיבה בשבדיה נגמרה\": קלידן המטאל האנטי-מוסלמי בדרך לשלטון?",
@@ -138,20 +152,6 @@
       "parties": [],
       "people": [],
       "excerpt": "The UK foreign secretary has drawn rage and respect after announcing trade sanctions on Israeli settlers. Heather Stewart explains how – and why – Ed Miliband got tough This time just over a decade ago, Ed Miliband was known for pushing his older brother David out of the way to b…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-AQgWzw6l5_P5yXfWtj36",
-      "title": "וולקאם טו יהוד: 56 קולות הפרידו בין קואליציה לאופוזיציה, האם משהו השתנה?",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-10T21:01:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/b1ilcdaozl",
-      "category": "תרחישי קואליציה",
-      "parties": [],
-      "people": [],
-      "excerpt": "בבחירות האחרונות הצביעות תושבי יהוד חצי-חצי; גם 4 שנים אחרי, בעידן שאחרי 7/10, רבים נשארו באותו מקום: \"המחדל? הזמן עשה את שלו\". \"יש להם זיכרון של דג\", אמרה מיכל על אלה שתומכים בנתניהו. סיגל תצביע שוב לליכוד כי אין \"שחקן חדש ומשכנע\". ועל מה הבחירות? תלוי את מי שואלים - ובאיזה רחוב…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
