@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-12T03:29:56.588Z",
+  "updatedAt": "2026-09-12T06:34:09.090Z",
   "stories": [
+    {
+      "id": "ynet-IFjXeCM340ixPa3rPvyA",
+      "title": "התקווה עדיין באמצע",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-12T05:57:54.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14895865",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "מהיוזמות שביקשו לשבור את מפת הגושים נותרו רק רסיסים שיתקשו לעבור את אחוז החסימה. ניתן לראות בכך הוכחה שאין קונים לסחורת האחדות, ואפשר לקרוא את התמונה אחרת: השיח על ממשלה רחבה הצליח לגרום לכך שגם המפלגות הגדולות פנו לממלכתיות. למרות הציניות, זרעי השינוי כבר נשתלו",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-MGdImRZwKWqYKgFJ4Hq1",
+      "title": "שנה טובה, לשם שינוי",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-12T05:54:10.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14896431",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "במקום להתרכז בניכור, בקרע, בגילויי אלימות מיותרים ומבזים של שני הצדדים ובחוסר הסובלנות שהבחירות המתקרבות רק יעצימו, בחרתי להסתכל על השנה החדשה המתחילה הערב אחרי הדלקת הנרות, מבעד למשקפיים טובים",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel-UFakWIkpEmObZ7Lp6QwH",
+      "title": "Call it the Miliband doctrine. Let’s hope the new Israeli settlement boycott is just the start | Steve Bloomfield",
+      "source": "The Guardian",
+      "author": "Steve Bloomfield",
+      "publishedAt": "2026-09-12T05:00:30.000Z",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/12/miliband-doctrine-israeli-settlement-boycott-uk-foreign-policy",
+      "category": "כלכלה",
+      "parties": [],
+      "people": [],
+      "excerpt": "This week’s move suggests that, even in the age of Trump, Britain will once again have an ‘ethical dimension’ to its foreign policy. That’s good for the world Almost 30 years ago, the Labour titan Robin Cook announced his arrival at the Foreign Office by laying out what would bec…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-oP2TPMVe3YgoIAHxz4Ol",
       "title": "הסכם עודפים בין רע\"מ והמשותפת: \"הוסכם על קמפיין נקי בלי השמצות\"",
