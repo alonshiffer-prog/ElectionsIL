@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-11T21:27:53.238Z",
+  "updatedAt": "2026-09-12T00:36:23.477Z",
   "stories": [
+    {
+      "id": "ynet-oP2TPMVe3YgoIAHxz4Ol",
+      "title": "הסכם עודפים בין רע\"מ והמשותפת: \"הוסכם על קמפיין נקי בלי השמצות\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-11T21:47:40.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/sku7exmfzx",
+      "category": "קמפיינים",
+      "parties": [],
+      "people": [],
+      "excerpt": "בניגוד לבחירות הקודמות: מפלגתו של מנסור עבאס חתמה על הסכם עודפים עם הרשימה המשותפת כדי למנוע בזבוז קולות, וסיכמו על \"קמפיין בחירות הוגן, ללא הכפשות, הסתה או זיוף\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-Ua-PTXcmeH7-4whfzOoE",
       "title": "שיא הח\"כיות - ופערי הענק בין הגושים: כך צפויה להיראות הכנסת הבאה",
