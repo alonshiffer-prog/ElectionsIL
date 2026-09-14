@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-14T06:39:12.310Z",
+  "updatedAt": "2026-09-14T09:33:14.336Z",
   "stories": [
+    {
+      "id": "ynet-vyz4Rs0InUO6rIQr6ZkL",
+      "title": "ירי במשרד יחידת העילית: קצין בכיר במשטרה פלט כדור מאקדחו ונפצע קל בידו",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-14T08:20:30.000Z",
+      "url": "https://www.ynet.co.il/news/article/hk11unqhyge",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "סמוך לשעה 09:00 נשמעה ירייה במשרדי להב 433 בלוד. בירור ראשוני העלה כי כדור נפלט מאקדחו האישי של ראש מפלג. מצבו הוגדר קל. דיווח הועבר למח\"ש",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-GrDGZLwaZJ1gWz2jD3Hx",
+      "title": "שר אוצר הוא לא גזבר",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-14T07:40:33.000Z",
+      "url": "https://www.ynet.co.il/news/article/hkqbxxrkgg",
+      "category": "כלכלה",
+      "parties": [],
+      "people": [],
+      "excerpt": "מי שמנסה למכור לנו \"שר אוצר אחראי\", מתעלם מכך שסמוטריץ' הקריב את העתיד הכלכלי של כולנו על מזבח אמונה משיחית בשמיים ויציבות קואליציונית ארצית",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-sYaU7US8nfMJrkrhPT1W",
+      "title": "\"כל יהודי יהפוך פה לעבריין\": נורבגיה מבקשת להקצין ענישה על סחר עם יו\"ש",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-14T06:42:42.000Z",
+      "url": "https://www.ynet.co.il/news/article/rj6c311htfx",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "אחרי ש-12 מדינות מערביות הכריזו על כוונתן להטיל סנקציות על הכנסת מוצרים שמקורם בהתנחלויות, באוסלו בוחנים לקחת את החרם צעד אחד קדימה. שר החוץ הנורבגי איידה מקדם חוק שיאפשר להטיל עד 3 שנות מאסר על אנשים או חברות שיסחרו עם מתנחלים. און, ישראלי שחי בנורבגיה: \"אנטישמי השנה איבד בורג\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-HcCL89Kx1K7n_9GWF20I",
       "title": "\"ברית זוגיות אזרחית\": המהפך של בנט - והתוכנית לשוויון לקהילה הגאה",
@@ -474,6 +516,20 @@
       "parties": [],
       "people": [],
       "excerpt": "בצל הערכות שטראמפ עשוי לחדש את המלחמה אחרי הבחירות בארה\"ב בנובמבר, הבטיח הנשיא שהיא תסתיים \"מיד\" אחרי מאבק השליטה על הקונגרס - אך ב\"וול סטריט ג'ורנל\" דווח כי הוא הוזהר שהעימות עלול להימשך עד סוף כהונתו. המטוסים נפגעו בתקיפה איראנית על ירדן השבוע, ארה\"ב שיגרה יותר מ-30 טילי פטריוט…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "bbc-AHdkY5xDLD9youQNSxLx",
+      "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+      "source": "BBC News",
+      "author": "",
+      "publishedAt": "2026-09-09T21:12:12.000Z",
+      "url": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "The president also blamed the rising price of oil on the war, and said that prices will come down after the coming elections.",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
