@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-16T15:30:43.853Z",
+  "updatedAt": "2026-09-16T18:33:36.222Z",
   "stories": [
+    {
+      "id": "guardian-israel-v-d_Y3i35QbAO4CFlLoP",
+      "title": "More Republicans are turning on Iran war as midterms come into view",
+      "source": "The Guardian",
+      "author": "Chris Stein",
+      "publishedAt": "2026-09-16T17:18:14.000Z",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "Three more GOP members voted for war powers resolution to force withdrawal from the conflict as election looms US politics live – latest updates As the US war with Iran drags on, the ranks of Republicans signaling the conflict is a liability for their party continues to grow. Whe…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-GBjfrZjg_klRfRCjg44p",
+      "title": "מי שבאמת רוצה שינוי, צריך להצביע למשותפת",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-16T17:11:41.000Z",
+      "url": "https://www.ynet.co.il/news/article/byfiardfzg",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "אי אפשר להתלונן על זה שהדמוקרטיה בסכנה ובה בעת להצביע למפלגות שמתעלמות לחלוטין מהביטויים הכי מזוקקים ואלימים של היעדר הדמוקרטיה: הכיבוש, ההרג בעזה ובגדה וקידום העליונות היהודית",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-CF-1u3Q6HrKwcPqcEOLD",
+      "title": "אף שר לא הגיע לדיון, לוין הכריע לבד: ראש השב\"כ יחליט אם לאבטח את איזנקוט וגולן",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-16T16:28:04.000Z",
+      "url": "https://www.ynet.co.il/news/article/bk00vmrufme",
+      "category": "משפט וממשל",
+      "parties": [],
+      "people": [],
+      "excerpt": "שר המשפטים היה היחיד שהגיע לוועדת השרים לענייני שב\"כ, וקבע שזיני יהיה זה שיקבע אם לאבטח ראשי מפלגות שהינם אזרחים כמו גולן, איזנקוט ועופר וינטר",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-n9NGD3QbNkAaTIp7igSp",
       "title": "מחטף בחירות? סער ימנה 12 שגרירים: \"מריח רע\"",
