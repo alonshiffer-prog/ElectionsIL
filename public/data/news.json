@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-09-19T03:29:31.527Z",
+  "updatedAt": "2026-09-19T06:33:59.248Z",
   "stories": [
     {
+      "id": "guardian-israel-iKaeMBiK09W5e_Yncf5i",
+      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+      "source": "The Guardian",
+      "author": "Peter Beaumont",
+      "publishedAt": "2026-09-19T05:00:37.000Z",
+      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
+      "category": "קמפיינים",
+      "parties": [],
+      "people": [],
+      "excerpt": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
       "id": "ynet-kZI-WJ8DHwlkYz3SrSuR",
-      "title": "מיצג באו\"ם: בד באורך 100 מטר עם שמות של 20 אלף ילדים פלסטינים",
+      "title": "מיצג באו\"ם: בד באורך 100 מטר עם שמות 20 אלף ילדים פלסטינים שנהרגו בעזה",
       "source": "ynet",
       "author": "",
       "publishedAt": "2026-09-18T22:18:33.000Z",
       "url": "https://www.ynet.co.il/news/article/b1800owjkmx",
-      "category": "תרחישי קואליציה",
+      "category": "ביטחון",
       "parties": [],
       "people": [],
-      "excerpt": "לפני כינוס העצרת הכללית: קואליציה של ארגונים בין דתיים השיקה מיצג זיכרון בצורת תכריך בד באורך מאה מטרים, שעליו נכתבו בכתב יד שמותיהם של יותר מ-20 אלף ילדים פלסטינים",
+      "excerpt": "לפני כינוס העצרת הכללית: קואליציה של ארגונים בין דתיים השיקה מיצג זיכרון בצורת תכריך בד באורך מאה מטרים, שעליו נכתבו בכתב יד שמותיהם של יותר מ-20 אלף ילדים פלסטינים שנהרגו במלחמה",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
