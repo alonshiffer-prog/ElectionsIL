@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-19T09:29:59.859Z",
+  "updatedAt": "2026-09-19T12:33:36.967Z",
   "stories": [
+    {
+      "id": "ynet-QbhnB569lHzxSPW6XmPc",
+      "title": "\"תרגמו את זה לעברית\": האזהרה החריגה מוותיק תומכי ישראל בקונגרס",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-19T11:59:20.000Z",
+      "url": "https://www.ynet.co.il/news/article/hy00iajfml",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "חבר הקונגרס הדמוקרטי בראד שרמן קרא לכל הישראלים לצפות בקטע של CNN, שהציג סקרים המצביעים על צניחה חדה באהדה למדינה בארה\"ב. \"אינני חושב שהם מבינים מה עומד על הפרק, ישראל לא יכולה להתקיים ללא ידידים בעולם\", התריע. הנתונים העגומים, והאזהרה על בן גביר: \"נוכחותו בממשלה - סיכון קיומי\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-cQdWYjdNSCBBJy6pg41y",
+      "title": "כוננות בנאט\"ו, חשש מגיוס המוני ו\"תרחיש סובאלק\": אירופה נערכת להסלמה רוסית אחרי ה\"בחירות\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-19T10:24:06.000Z",
+      "url": "https://www.ynet.co.il/news/article/hjkem6ofzl",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "במערב מעריכים כי הקרמלין מכין את הקרקע ל\"גיוס שקט\" אחרי סגירת הקלפיות מחר, ובקייב כבר הזהירו מאפשרות שמאות אלפים יגויסו לצבא. פולין הזניקה גם היום מטוסים בעקבות התקיפות באוקראינה, מקרון התריע כי האיום ההיברידי הרוסי \"התגבר\" ובנאט\"ו נערכים לתרחישי חבלה ופגיעה בתשתיות: \"הידרדרות מת…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "guardian-israel-iKaeMBiK09W5e_Yncf5i",
       "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
