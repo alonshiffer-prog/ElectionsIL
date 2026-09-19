@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-19T12:33:36.967Z",
+  "updatedAt": "2026-09-19T15:28:13.605Z",
   "stories": [
+    {
+      "id": "ynet-J5QLgfrFJvTfIiAE2VbE",
+      "title": "הם נשכבו על הגדר בשביל נתניהו. את הכנסת הבאה יראו מהבית: \"קיבלתי שיעור חשוב בחיים\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-19T15:21:30.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14902240",
+      "category": "דת ומדינה",
+      "parties": [],
+      "people": [],
+      "excerpt": "חברי כנסת מהליכוד שנדחקו לתחתית הרשימה הקפידו להוריד פרופיל מאז האכזבה בפריימריז. עכשיו חמישה מהם מספרים מה השתבש מאחורי הקלעים. הח\"כית שחושבת שנדחקה לאחור כי \"לא תקפה מספיק את מערכת המשפט\", זה שחשב שיהיה הפתעת הפריימריז וסיים במקום ה-65 - וחבר הכנסת שמאשים: \"לשכת נתניהו הלכה לי …",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-B4_ObolcK9KgMmEVBKEZ",
+      "title": "השיחה המתוחה לפני הסנקציות: \"הבנו שישראל לא תקדם את E1 לפני הבחירות\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-19T13:01:02.000Z",
+      "url": "https://www.ynet.co.il/news/article/b191ez2kzx",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "חודש לפני המפולת המדינית, סער שוחח עם עמיתיו בלונדון - ואלה \"קיבלו את הרושם\" שישראל לא תקדם את תוכנית הבנייה ב-E1. אלא שכעבור שבוע, פרסמה הממשלה מכרזים לכ-1,200 יחידות דיור. \"זה ההיפך הגמור ממה שהבנו\", זעמו הבריטים. משרד החוץ: \"הוא רק עדכן שלא יחול שינוי בשטח עצמו לפני אוקטובר\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-QbhnB569lHzxSPW6XmPc",
       "title": "\"תרגמו את זה לעברית\": האזהרה החריגה מוותיק תומכי ישראל בקונגרס",
@@ -4170,20 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "במערכת הפוליטית חוששים שלשכת רה\"מ תנצל את שליטתה בתמלילי דיוני המלחמה, כדי לעוות את המציאות. אחרי עוד קמפיין נגדו, איזנקוט דרש: \"חשפו את הפרוטוקולים המלאים\". הנהלים בנוגע לטיפול בהם מחמירים, אך אנשי נתניהו מצאו בעבר דרכים להוציא את החומרים - ולהסיר סיווג מעשרות מסמכים סודיים",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "bbc-MSBr44LBxPvXZ6kIVO8Q",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "source": "BBC News",
-      "author": "",
-      "publishedAt": "2026-08-10T14:43:08.000Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "category": "קמפיינים",
-      "parties": [],
-      "people": [],
-      "excerpt": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
