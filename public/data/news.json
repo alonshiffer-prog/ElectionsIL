@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-22T03:30:34.296Z",
+  "updatedAt": "2026-09-22T06:36:03.591Z",
   "stories": [
+    {
+      "id": "ynet-XfG24AL3ZqCJY5siGP8I",
+      "title": "\"שלא יגידו 'לא ידענו'\": מה התוכנית של כל מפלגה על הנושא שהצית מחאה חסרת תקדים",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-22T04:21:45.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14903844",
+      "category": "משפט וממשל",
+      "parties": [],
+      "people": [],
+      "excerpt": "מפסקת התגברות וביטול הוועדה לבחירת שופטים ועד לחוקה: המפלגות חושפות לבקשת ynet ו\"ידיעות אחרונות\" תוכניות לעתיד מערכת המשפט. הן מסמנות את קו הזינוק לעימות הצפוי אחרי 27 באוקטובר: \"על זה הבחירות\". בליכוד שוב סירבו להשיב לפנייה. מה התוכנית של המפלגות בנושאים הבוערים: כתבה שנייה בסדר…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-AuA_5tGD5OpXJii_uAB_",
       "title": "לוקחים חלק בעלילה",
@@ -26,20 +40,6 @@
       "parties": [],
       "people": [],
       "excerpt": "Voters rejected many establishment choices this year in favor of candidates pushing accountability for Gaza, writes Akbar Shahid Ahmed The last time she gathered with fellow Democrats for a pre-election national convention, Georgia state representative Ruwa Romman got an unspoken…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-XfG24AL3ZqCJY5siGP8I",
-      "title": "\"על זה הבחירות\": התוכניות והיוזמות של המפלגות בסוגיית עתיד מערכת המשפט",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-21T21:00:00.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14903844",
-      "category": "משפט וממשל",
-      "parties": [],
-      "people": [],
-      "excerpt": "מפסקת התגברות ועד למשאל עם על חוקה: המפלגות חושפות תוכניות לעתיד מערכת המשפט, שנעות מ\"הסדרת מערכת היחסים בין הרשויות\" ל\"שינוי שורשי\" - ומסמנות את קו הזינוק לעימות הבא על דמותה של המדינה. בליכוד שוב סירבו להשיב לפנייה. מה התוכנית של המפלגות בנושאים הבוערים: כתבה שנייה בסדרה",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
