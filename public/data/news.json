@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-24T09:31:33.055Z",
+  "updatedAt": "2026-09-24T12:37:31.919Z",
   "stories": [
+    {
+      "id": "ynet-hUHz_d9ysJW3lZxnha32",
+      "title": "טלי גוטליב: חבל שנתניהו לא גיבה את שרה בנושא הזה | הספינר של ynet",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-24T12:21:16.000Z",
+      "url": "https://www.ynet.co.il/news/article/rjbf2qm5mx",
+      "category": "דת ומדינה",
+      "parties": [],
+      "people": [],
+      "excerpt": "ח\"כ טלי גוטליב, שעברה אחרי הפריימריז מהליכוד והפכה לבכירת מפלגת עוצמה יהודית, הגיעה לרולטת האסוציאציות החדשה של ynet וירתה לכל כיוון: מה החלום האישי שהייתה רוצה להגשים, מה היא חושבת על ההאשמה בקונספירציות ולמה לטענתה הממשלה ונתניהו נושאים באחריות ל-7/10 - אבל לא באשמה?",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-ebLmaY0BWgJBYBCC6TC2",
+      "title": "נדחו הבקשות לפסול את עוצמה יהודית, הציונות הדתית-זהות והדמוקרטים",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-24T11:10:39.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/hj3llhz9zx",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "ועדת הבחירות דחתה את פסילת שלוש המפלגות. בהצבעה על הדמוקרטים לא השתתפו הציונות הדתית והליכוד. אחרי שאתמול נפסלו יו\"ר בל\"ד אבו שחאדה, כסיף, רע\"מ והרשימה המשותפת התנגדה היועמ\"שית לפסילת המפלגות שעלו לדיון היום, נציגתה אמרה על עוצמה יהודית: \"קרבה מסוכנת לתחום האסור\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-vXOtWZD3HWDkP4KwFGR3",
       "title": "\"עוד צ'יף לאזור\": מאחורי הכנסת מפקדת האוגדה הנוספת ליו\"ש",
@@ -26,20 +54,6 @@
       "parties": [],
       "people": [],
       "excerpt": "Prime minister will ‘highlight Israel’s achievements’ as he heads towards his toughest re-election challenge When he takes the stage at the UN on Thursday, Benjamin Netanyahu will deliver a familiar message of defiance even as protests and international condemnation leave the Isr…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-ebLmaY0BWgJBYBCC6TC2",
-      "title": "נדחו הבקשות לפסול את עוצמה יהודית, נציגת היועמ\"שית: \"קרבה מסוכנת לתחום האסור\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-24T06:26:05.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/hj3llhz9zx",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "ועדת הבחירות תצביע גם על פסילת הציונות הדתית-זהות והדמוקרטים, עמדת היועמ\"שית היא שאין לפסול אף אחת מהן. בליכוד ובש\"ס החליטו לא להצביע על פסילת הדמוקרטים, אחרי שאתמול נפסלו יו\"ר בל\"ד אבו שחאדה, כסיף, רע\"מ והרשימה המשותפת | ישיר מדיוני הוועדה",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4184,20 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "עופר וינטר השיק מפלגה חדשה שנתפסת אצל נתניהו כהרפתקה לא רצויה. מאחורי הקלעים וינטר סירב להצעות שיריון ולאיחוד עם סמוטריץ', אך מצהיר תמיכה בנתניהו כמועמד לראשות הממשלה - סתירה שעלולה לעלות לו ביוקר. הכתבת הפוליטית של ynet מורן אזולאי מסבירה מאיפה וינטר שואב את כוחו הפוליטי, ולמה ב…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-OPGo6bCvCGOklXVY5Tar",
-      "title": "קח אותי, איתמר",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-08-30T21:03:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/yokra14883450",
-      "category": "תרחישי קואליציה",
-      "parties": [],
-      "people": [],
-      "excerpt": "מבחינת האג'נדה שלו, אין ולו שר אחד בממשלה הכושלת הזאת שיכול להשתוות לסמוטריץ'. אף על פי כן, שום מפלגה לא מוכנה לתת לו מקלט ברשימתה: הוא מבריח מצביעים",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
