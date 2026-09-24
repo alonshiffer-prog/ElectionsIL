@@ -1,9 +1,37 @@
 {
-  "updatedAt": "2026-09-24T06:36:53.744Z",
+  "updatedAt": "2026-09-24T09:31:33.055Z",
   "stories": [
     {
+      "id": "ynet-vXOtWZD3HWDkP4KwFGR3",
+      "title": "\"עוד צ'יף לאזור\": מאחורי הכנסת מפקדת האוגדה הנוספת ליו\"ש",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-24T08:10:45.000Z",
+      "url": "https://www.ynet.co.il/news/article/sy11pnmmqml",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "על-רקע שרשרת מתקפות הטרור, מפקדת אוגדה 98 תופעל באזור הנפיץ בתקופת החגים כדי לייצר אפקטיביות גבוהה יותר בטיפול אל בפיגועים וגם מול התרחבות ההתיישבות. עם זאת, גורם צבאי בכיר אומר: \"אין התרעות ספציפיות על פיגועים\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel-0pTXju9vDbXIx-qwGy6u",
+      "title": "Benjamin Netanyahu to deliver defiant UN speech while facing protests and political isolation",
+      "source": "The Guardian",
+      "author": "Andrew Roth and Alice Speri in New York",
+      "publishedAt": "2026-09-24T08:00:12.000Z",
+      "url": "https://www.theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation",
+      "category": "קמפיינים",
+      "parties": [],
+      "people": [],
+      "excerpt": "Prime minister will ‘highlight Israel’s achievements’ as he heads towards his toughest re-election challenge When he takes the stage at the UN on Thursday, Benjamin Netanyahu will deliver a familiar message of defiance even as protests and international condemnation leave the Isr…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
       "id": "ynet-ebLmaY0BWgJBYBCC6TC2",
-      "title": "שידור ישיר: ועדת הבחירות דנה בפסילת עוצמה יהודית, הציונות הדתית והדמוקרטים",
+      "title": "נדחו הבקשות לפסול את עוצמה יהודית, נציגת היועמ\"שית: \"קרבה מסוכנת לתחום האסור\"",
       "source": "ynet",
       "author": "",
       "publishedAt": "2026-09-24T06:26:05.000Z",
@@ -11,7 +39,7 @@
       "category": "מפלגות",
       "parties": [],
       "people": [],
-      "excerpt": "אחרי שפסלה את יו\"ר בל\"ד אבו שחאדה, את כסיף ואת רע\"מ והרשימה המשותפת, פתחה הוועדה את יום הדיונים השני בבקשות הפסילה",
+      "excerpt": "ועדת הבחירות תצביע גם על פסילת הציונות הדתית-זהות והדמוקרטים, עמדת היועמ\"שית היא שאין לפסול אף אחת מהן. בליכוד ובש\"ס החליטו לא להצביע על פסילת הדמוקרטים, אחרי שאתמול נפסלו יו\"ר בל\"ד אבו שחאדה, כסיף, רע\"מ והרשימה המשותפת | ישיר מדיוני הוועדה",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "מבחינת האג'נדה שלו, אין ולו שר אחד בממשלה הכושלת הזאת שיכול להשתוות לסמוטריץ'. אף על פי כן, שום מפלגה לא מוכנה לתת לו מקלט ברשימתה: הוא מבריח מצביעים",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-kBObgKziaWk76DhRPWKg",
-      "title": "תעודת עניות: איפה הנשים ברשימות?",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-08-30T21:03:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/yokra14883251",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "העובדה שבבחירות לכנסת ה-26 אין נשים שעומדות בראשות מפלגה שתצליח להיבחר, היא תעודת עניות לחברה הישראלית",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-YfPfp2wqicybXKorN2U2",
-      "title": "באוצר הודפים את טענות מערכת הביטחון: \"משקף ניהול רשלני בכל הקשור לתקציב\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-08-30T20:14:08.000Z",
-      "url": "https://www.ynet.co.il/news/article/skpwuawofg",
-      "category": "כלכלה",
-      "parties": [],
-      "people": [],
-      "excerpt": "אחרי שבמערכת הביטחון התריעו כי אגף התקציבים בולם העברת 15 מיליארד שקלים בזמן של מחסור חמור בהאמרים וחימושים, יוצאים בכירי האוצר למתקפת נגד. לדבריהם, \"התקציב 'שוכב' בוועדת הכספים של הכנסת. זאת חוצפה שאין שנייה לה לומר שזה תקוע באוצר. הם מפריחים ספינים שנועדו להפחדת הציבור\"",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
