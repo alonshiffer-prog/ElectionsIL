@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-25T12:36:47.973Z",
+  "updatedAt": "2026-09-25T19:17:52.629Z",
   "stories": [
+    {
+      "id": "guardian-israel-_VUjtMcxYqnHhttHrOu_",
+      "title": "Alarm at UN over sanctions threatened by US on international criminal court",
+      "source": "The Guardian",
+      "author": "Patrick Wintour in New York",
+      "publishedAt": "2026-09-25T18:33:54.000Z",
+      "url": "https://www.theguardian.com/world/2026/sep/25/trump-israel-icc-threats",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "Group calls for proper enforcement of ICC rulings as Trump administration widens attacks on court The US threat to impose sanctions on the international criminal court (ICC) as an institution, not just its leading judges, could fundamentally disrupt its operation and needed to be…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-89AQ4ZkXa1JWH88-pppz",
+      "title": "איטליה: נחשפה רשת ניאו-נאצים שהיללו את היטלר - ותכננו פיגוע בבית כנסת ומסגד",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-25T16:52:19.000Z",
+      "url": "https://www.ynet.co.il/news/article/bj0htzncge",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "17 חשודים, מתוכם 14 קטינים, נעצרו בפשיטה נרחבת בכמה ערים במדינה. על פי החקירה, הם השתייכו לשתי קבוצות שהפיצו תכנים של עליונות לבנה והתאמנו לביצוע פעולות טרור. השיח בקבוצות לווה באנטישמיות, גזענות והומופוביות - וכלל שיתוף מניפסטים של מחבלי ימין קיצוני שביצעו פיגועי ירי המוניים",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-RfN6Z9MWjDps9iyqpSMI",
       "title": "המשטרה משליכה אחריות, צה\"ל לא משיב לפניות ח\"כים: \"לא נאפשר את טיוח העריקות\"",
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "אחרי שהחריפה את הביקורת על רה\"מ וטענה כי אנשיו \"פועלים להדיר\" אותה מהמפלגה, ל-ynet נודע כי יו\"ר עוצמה יהודית שוחח עם הח\"כית מהליכוד ומייעד לה מקום בצמרת. בכירים בליכוד טוענים כי ביקשה להשתבץ במקום ה-12 וסורבה, גוטליב: \"נתניהו נעץ לי סכין בגב\". בן גביר: \"לא אעשה צעד לפני החלטת רה\"…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-8EKYHp9Z8a9GsTZp-tbH",
-      "title": "שתי ח\"כיות נוספות עוזבות את לפיד",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-01T12:58:04.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/rkol8heuge",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "הארגון מחדש של רשימת ביחד נמשך: אל מאיר כהן ומיקי לוי שלהם הראו את הדרך החוצה בצורה יפה, הצטרפו גם חברות הכנסת טטיאנה מזרסקי ודבי ביטון מיש עתיד. \"אני מסיימת 4 שנים אינטנסיביות ומשמעותיות בכנסת בתחושת סיפוק גדולה\", כתבה ביטון",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-CqpAWAo_7PEseJ16vjrC",
-      "title": "250 תלמידי ממלכתי-חרדי נותרו בלי בית ספר באשדוד: \"העירייה נכנעת למפלגות\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-01T09:21:26.000Z",
-      "url": "https://www.ynet.co.il/news/article/hjmajx4ozl",
-      "category": "מפלגות חרדיות",
-      "parties": [],
-      "people": [],
-      "excerpt": "התלמידים נותרו בלי מסגרת חינוכית, כשהסיבה לטענתם הוריהם היא התנגדות המפלגות החרדיות לבתי ספר שמלמדים לימודי ליבה מלאים. \"גורמים פוליטיים בעירייה, ובראשם נציג מש\"ס, מסיתים נגד הקמת הממ\"ח\", תקפו. העירייה: \"המוסד הוקם ללא ידיעת הרשות וללא אישורה. פועלים למציאת מענה ראוי\"",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
