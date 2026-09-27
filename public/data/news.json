@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-27T12:10:10.991Z",
+  "updatedAt": "2026-09-27T17:02:18.024Z",
   "stories": [
+    {
+      "id": "ynet-soSKoRCX2nYjMINXUMDs",
+      "title": "הזיהוי, הפגיעה ופטריית העשן: תיעוד חיסול המחבל שחטף את נועה ארגמני",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-27T16:57:39.000Z",
+      "url": "https://www.ynet.co.il/news/article/sknzbpu9fe",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "המשטרה הפיצה את תיעוד חיסולו של המחבל סאהר סקר שחטף את נועה ארגמני ב-7/10. בתיעוד נראה המעקב אחריו והפגיעה המדויקת במחבל מהאוויר. על פי צה\"ל סקר חוסל משום ש\"המשיך לקדם מתווי טרור\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-0s_FwvgchKlsjnFXE05V",
+      "title": "נגד גולן ועבאס: הקמפיין הפוליטי של כ\"ץ, דרך משרד הביטחון",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-27T16:51:27.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/s12uktuczl",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "בקבוצת הוואטסאפ \"הודעות לשכת שר הביטחון\", שבה חברים כתבים, הפיץ כ\"ץ הודעה נגד הדמוקרטים וטען כי \"גולן מודה: אין לאיזנקוט ממשלה בלי המפלגות הערביות\". בתגובה, איימו במפלגה לפנות לוועדת הבחירות המרכזית: \"שימוש במשרד הביטחון כסניף של קמפיין פוליטי\". כ\"ץ: \"זו לא דוברות משרד הביטחון\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-0fBx8CfwNZv6mwNfkCwf",
       "title": "סמוטריץ' נגד היועמ\"שית: \"עובדת בשביל איזנקוט\"",
@@ -81,7 +109,7 @@
       "category": "סקרים",
       "parties": [],
       "people": [],
-      "excerpt": "המחבל סאהר סקר, שרכב על האופנוע שעליו נחטפה נועה לצד בן זוגה אבינתן אור, חוסל בתקיפה אווירית בנוסייראת - כחלק ממסע הציד שמנהלים כוחות הביטחון נגד משתתפי טבח ה-7/10. צה\"ל ושב\"כ: \"קידם מתויי טרור וסיפק אמצעי לחימה לחמאס\". הבוקר: נפגעים בתקיפה במחנה שאטי",
+      "excerpt": "המחבל סאהר סקר, שרכב על האופנוע שעליו נחטפה נועה לצד בן זוגה אבינתן אור, חוסל בתקיפה אווירית בנוסייראת - כחלק ממסע הציד שמנהלים כוחות הביטחון נגד משתתפי טבח ה-7/10. צה\"ל ושב\"כ: \"קידם מתווי טרור וסיפק אמצעי לחימה לחמאס\". הבוקר: נפגעים בתקיפה במחנה שאטי",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "בוועידת \"זמן הכרעה: דמוקרטיה וחברה\" של ynet ו-\"ידיעות אחרונות\" בשיתוף המכון הישראלי לדמוקרטיה, סיפר יו\"ר ישר! כי כשכיהן כרמטכ\"ל ב-2018, לאחר שטייסי חיל אוויר נטשו מטוס שהופל - לא הצליח להשיג את רה\"מ במשך שעתיים - והחליט בעצמו על תקיפות נרחבות בסוריה, שנתניהו עצר לאחר מכן את המשכן…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "bbc-jBjp8caZQONCYn8JlcFs",
-      "title": "Iran attacks US bases in Middle East after reports US strike killed four at wedding party",
-      "source": "BBC News",
-      "author": "",
-      "publishedAt": "2026-09-02T09:20:33.000Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "The Iranian Red Crescent says a child was among those killed when shrapnel from hit a home, but the US military says it never targets civilians.",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-CYB9FERqkSLx_i5vCbn0",
-      "title": "גפני בדרך החוצה? אלה המועמדים להחליפו",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-02T08:59:38.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/hki1bwrufg",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "פרסום ראשון: בדגל התורה שוקלים לשלב כמה מועמדים חדשים ברשימה לכנסת. כישלון העברת חוק הפטור מגיוס והיעדר המענה לציבור על הסנקציות והמעצרים נגד העריקים הובילו לדיונים בבתי מנהיגי דגל התורה על ריענון המפלגה",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
