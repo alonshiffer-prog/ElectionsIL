@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-29T22:21:07.840Z",
+  "updatedAt": "2026-09-30T05:39:39.688Z",
   "stories": [
+    {
+      "id": "guardian-israel-JEpR4hqxVvK5AzipCWhI",
+      "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+      "source": "The Guardian",
+      "author": "Joseph Gedeon in Washington",
+      "publishedAt": "2026-09-30T00:16:17.000Z",
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "Nine American citizens have been killed by Israeli settlers or security forces in occupied West Bank since 2022 The US Senate on Tuesday evening rejected along mostly party lines a Democratic resolution that would have forced the state department to report to Congress on violence…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-46UrCO2gwjZBKFWond9q",
       "title": "לפיד ל-ynet בצאתו מהעדכון הביטחוני: בכל תרחיש, \"הבחירות יתקיימו במועדן\"",
@@ -26,6 +40,34 @@
       "parties": [],
       "people": [],
       "excerpt": "פחות מחודש לבחירות והמצב קשה. רוב התרחישים האפשריים ל-27 באוקטובר מותירים את ישראל בסכנה, ויש רק דרך אחת למנוע את זה: 61 מנדטים של גוש תיקון ציוני אמיתי. כך מפלגות הגוש יוכלו לעשות זאת",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-1sCp8J3SNH5Uqwd2Dy0J",
+      "title": "משבר הקלפיות הנגישות - ו\"מלווי הבחירות\" שיסייעו למאות אלפים להצביע",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-29T21:00:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14911905",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "רק 50% מהקלפיות מונגשות: מספר הקלפיות בבתי האבות ירד, שיעור מוגבלי הניידות בישראל גדל בצל המלחמה, ומאות אלפי ישראלים עלולים להתקשות לממש את זכותם להצביע. מיזם של אלפי מתנדבים נרתם לסייע - במקום שבו המדינה עדיין לא נותנת מענה מלא: \"החובה קיימת בחוק - אבל זה לא מספיק\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-ApaF__BxnT1ypdqe0rFd",
+      "title": "החלפת אוחנה תחילה: התוכנית של גוש השינוי להשתלטות על הכנסת | כך זה יכול לקרות",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-09-29T21:00:00.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14913260",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "בעוד ברוב הסקרים אין הכרעה לאף צד, בגוש השינוי עובדים על מהלך אסטרטגי מקדים: החלפת יו\"ר הכנסת. האמצעי: שיתוף פעולה עם רע\"מ והרשימה המשותפת. בלשכת נתניהו בוחנים צעדי מנע. זה התקדים - והאתגר בדרך",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4156,48 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "אלעזר שטרן הגשים את הנבואה של עצמו, ואחרי 11 שנה ביש עתיד הצטרף לרמטכ\"ל לשעבר, שמוביל בסקרים את מחנה השינוי: \"ההסתה נגד לפיד הצליחה, אבל היא לא עובדת כשמדובר באיזנקוט\". הוא מצהיר שאף מפלגה ערבית לא עומדת בתנאי היסוד שלו, אבל מזכיר שכך גם המפלגות החרדיות. מתי הוא יסכים לשבת עם הלי…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-QlHQKeUt5I6eLQPbKogr",
-      "title": "להתאחד. לפרוש. לרוץ. לשריין: החתיכות בפאזל מסתדרות - ומה שעדיין פתוח",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-05T12:36:19.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/bjylcrk00fg",
-      "category": "סקרים",
-      "parties": [],
-      "people": [],
-      "excerpt": "סמוטריץ' ופייגלין התאחדו, אך נתניהו היה רוצה לראות איחוד משולש. סגלוביץ' חבר לרע\"מ ועבאס, טרופר והנדל בדילמה, ארדן פרש - וגנץ עדיין במירוץ למרות הסקרים. בזמן שגוטליב הצטרפה לבן גביר, ביש עתיד \"נופו\" חברי הכנסת הוותיקים מהרשימה. לחלק מהשאלות כבר קיבלנו תשובה השבוע, אך כמה מהן עדיי…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-hCJS_-6PjuAmxHvU0Zt6",
-      "title": "התשובות של בכירי המפלגות: מה עושים עם המשטרה?",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-05T10:51:14.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/ryeoxysuge",
-      "category": "כלכלה",
-      "parties": [],
-      "people": [],
-      "excerpt": "ממעורבות שב\"כ וחקיקה דרקונית, דרך הקמת קבינט מיוחד ועד מינוי שר מקצועי ותקציבי עתק: בוועידת \"זמן הכרעה: דמוקרטיה וחברה\" הפנינו לראשי ובכירי המפלגות שאלה זהה על הדרך לשקם את המשטרה והמשרד לביטחון לאומי לנוכח השתוללות הפשיעה. אלו התוכניות שלהם ליום שאחרי הבחירות",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-D1MoeX1rsDKlZWdru0s-",
-      "title": "\"פיצוצים באי הנפט\" של איראן - והערכת המודיעין: טהרן שוקלת הסלמה כדי לייאש את טראמפ",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-05T02:26:27.000Z",
-      "url": "https://www.ynet.co.il/news/article/bkziqcudfe",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "לאחר האיום של טראמפ סוכנות הידיעות האיראנית \"פארס\" דיווחה על פיצוצים שנשמעו באי האסטרטגי חארג. בדיווח אחר בטהרן נטען כי מכלית איראנית נפגעה מירי אמריקני. ב\"ניו יורק טיימס\" פורסם כי לפי דוחות מודיעיניים עדכניים, בטהרן נחושים להמשיך בעימות לפחות עד בחירות האמצע בניסיון לייאש את ארצ…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
