@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-03T05:24:30.589Z",
+  "updatedAt": "2026-10-03T11:46:36.154Z",
   "stories": [
+    {
+      "id": "ynet-qB8ENpAXOxMNGl_1-aYh",
+      "title": "מכה פוליטית לרה\"מ האנטי-ישראלי: ספרד בדרך לבחירות בזק?",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-10-03T06:42:24.000Z",
+      "url": "https://www.ynet.co.il/news/article/hklby705gx",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "הפרלמנט במדריד דחה חבילת צעדי חירום שהציעה הממשלה, בעקבות מחאת הדיור שפרצה אחרי ניסיון לגרש קשישה מהבית שבו חיה 70 שנה. רה\"מ פדרו סנצ'ס, שלקואליציה שלו אין רוב בפרלמנט ומתמודד במקביל עם פרשיות שחיתות ועם משבר המהגרים בסאוטה, עשוי כעת לפי פרשנים להכריז על בחירות בזק",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel-1begxQMkDwYEV22Zz0WI",
+      "title": "What is Zionism and why do some critics describe it as racist?",
+      "source": "The Guardian",
+      "author": "Peter Beaumont",
+      "publishedAt": "2026-10-03T06:00:51.000Z",
+      "url": "https://www.theguardian.com/world/2026/oct/03/what-is-zionism-green-party-debate",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "Green party debate over the motion ‘Zionism is racism’ comes amid renewed arguments over the meaning and history of a contested term Zack Polanski, the leader of the Green party, has said he is an anti-Zionist. As his party conference prepares to debate a motion that “Zionism is …",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet--r_K6MWH--TvxBDjK1pR",
       "title": "נשיאים, שופטים וסרט הוליוודי: הסקנדל שעשוי להכריע את הבחירות במדינת הענק",
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "שני ראשי הממשלה לשעבר מציגים את הרשימה המשותפת שתתמודד בבחירות הקרובות, יומיים לפני המועד האחרון להגשת הרשימות. בנט ראשון, לפיד שני - ובעשירייה הראשונה 5 נשים, בכירים לשעבר בשירות הציבורי וגם בן 23",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-Ku4fANvdKb4jAace4ccL",
-      "title": "בן גביר הקפיא את כל המינויים במשטרה | הרשימה - והרקע לפיצוץ עם המפכ\"ל",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-06T15:45:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/b11htcquzx",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "למרות מחסור בבכירים, הודיע בן גביר יממה לפני סבב מינויים של 141 קצינים כי לא יאשר זאת עד הבחירות. ל-ynet נודע: הרקע - מינוי נצ\"מ תמר ליברטי לסגנית יועמ\"ש המשטרה. גורם בלשכתו: \"זה מינוי של היועמ\"שית\". בן גביר האשים את דני לוי ואמר: \"תמתין לשר הבא, מי שזה לא יהיה\". אלו רק חלק מהמינ…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-wrM8kBqxtZWUiAVGy5j_",
-      "title": "\"נהיה הפה של מאות אלפים\": הפיראטים ו\"שרשר\" בקרב על האותיות",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-09-06T15:32:50.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/sjsnags00zg",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "לקראת הבחירות לכנסת ה-26 נציגי הסיעות הגיעו לוועדת הבחירות המרכזית כדי להירשם. נציג \"שרשר\" הגיע עם כתר על ראשו והבטיח לייצג את הפוסט-טראומתיים. דניאל פלבר ממפלגת הפיראטים הצהיר: \"הכנסת לא יכולה לתת לכל אזרח מושב, אבל היא יכולה לתת לכל אזרח קול\"",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
