@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-23T17:14:24.912Z",
+  "updatedAt": "2026-10-23T21:28:53.948Z",
   "stories": [
+    {
+      "id": "ynet-5I46sY0rK5-jqTNdeqTg",
+      "title": "הסקרים האחרונים לפני הבחירות: זו תמונת הגושים - ומי נותר מתחת לאחוז החסימה?",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-10-23T19:42:13.000Z",
+      "url": "https://www.ynet.co.il/news/elections2026/article/hy500sxt2mx",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "בכל הסקרים שפורסמו יש יתרון לגוש השינוי, אך אף צד לא משיג 61 מנדטים. ישר! של איזנקוט היא המפלגה הגדולה בישראל, הליכוד מיד אחריה. וינטר לא עובר את אחוז החסימה, הנדל וזליכה גם כן לא משיגים 3.25% מהקולות בשניים משלושת הערוצים - וכמה מקבלות המפלגות הערביות? | \"סקר הסקרים\" - כל הנתוני…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-oji0Ow0Pub7B9H0nvhk6",
+      "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-10-23T17:24:11.000Z",
+      "url": "https://www.ynet.co.il/news/article/hylsjfknfx",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "שליחו המיוחד של הנשיא ברק אמר כי \"בוודאי שתיתכן תקיפה\" באיראן, והשגריר האמריקני באו\"ם וולץ הוסיף: \"נערכים לעימות ממושך\". עם זאת, שניהם לא אמרו כי חזרה למלחמה היא עובדה מוגמרת: \"פתוחים לעסקה\". בינתיים טראמפ מתרברב בהישגים, כשברקע בחירות האמצע המתקרבות: \"אולי נצא למבצע 'חרון אפי 2'…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-u8OVP_AIktAbWjyMvLxQ",
       "title": "הקמפיין הערמומי של הליכוד - והחלטת סולברג: \"תודיעו שזה לא שלט של איזנקוט\"",
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "עבור השמאל רצח רבין ואז נצחון הימין היו מכה בלתי נסבלת בעלת השלכות עד ימינו. אם לבחירות האלה יהיה אקורד סיום דומה, ניתן רק לשער לאן זה עוד עלול להתדרדר",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-MvQCjH8ZKN2ZTQYc2PYU",
-      "title": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
-      "source": "The Guardian",
-      "author": "Jessica Elgot and Dan Sabbagh",
-      "publishedAt": "2026-10-05T21:00:53.000Z",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "Party to unveil plans for one of UK’s ‘most significant military programmes since the cold war’ The Conservatives will announce plans to build a £10bn British “Iron Dome” similar to Israel’s air and missile defence system, which the party will christen “Britannia Shield” in an an…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-fbMrc79CZpz8ArOpn1R9",
-      "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
-      "source": "The Guardian",
-      "author": "Aletha Adu, Peter Walker and Deborah Cole",
-      "publishedAt": "2026-10-05T19:10:43.000Z",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "European Green party says motion goes against its policy, with German Green co-leader calling it ‘intolerable and unacceptable’ Zack Polanski may rue lack of leadership when Greens needed him to act The English and Welsh Greens are facing international ostracism after adopting a …",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
