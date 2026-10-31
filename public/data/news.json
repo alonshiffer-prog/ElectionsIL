@@ -1,17 +1,31 @@
 {
-  "updatedAt": "2026-10-31T05:53:10.266Z",
+  "updatedAt": "2026-10-31T12:42:39.529Z",
   "stories": [
     {
       "id": "guardian-israel-3c_QlCD0p57kS29_IKvz",
       "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
       "source": "The Guardian",
       "author": "Emma Graham-Harrison in Azzarnug",
-      "publishedAt": "2026-10-31T05:00:33.000Z",
+      "publishedAt": "2026-10-31T09:25:16.000Z",
       "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
       "category": "מפלגות ערביות",
       "parties": [],
       "people": [],
-      "excerpt": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoum returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedoui…",
+      "excerpt": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoun returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedoui…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-zqxptykfBv2p62wQdz6Z",
+      "title": "החשש באירופה, התקווה ברמאללה ודילמת טראמפ: כך העולם נערך לפלונטר הישראלי",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-10-31T07:06:48.000Z",
+      "url": "https://www.ynet.co.il/news/article/h1fooszpgx",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "הבחירות הסתיימו ללא הכרעה, והמבוי הסתום מעורר דאגה גם מעבר לים: נשיא ארה\"ב לא שולל מעורבות בהקמת ממשלת אחדות, אבו מאזן הצהיר כי הוא מקווה \"לחדש את שיחות השלום\", ובגרמניה מזהירים מפני עיכוב הסיוע לעזה. בצרפת מבהירים כי המדיניות לא תשתנה גם אם נתניהו יוחלף, באיראן נערכים לחידוש המל…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -45,7 +59,7 @@
     },
     {
       "id": "ynet-msfZN3pAnUJff_5ScRzL",
-      "title": "דרמה בפולין: נשיא ביהמ\"ש לחוקה \"הושעה\" וניסה לפרוץ למתחם, נשיא המדינה התעמת עם שופטים",
+      "title": "דרמה בפולין: נשיא ביהמ\"ש לחוקה הושעה וניסה לפרוץ למתחם, נשיא המדינה התעמת פיזית עם שופטים",
       "source": "ynet",
       "author": "",
       "publishedAt": "2026-10-30T23:04:41.000Z",
@@ -4184,20 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "בגוש כבר נרקמות תוכניות למקרה של היעדר הכרעה ברורה, אלא שהפערים בין השותפים נראים היטב. הדחת יו\"ר הכנסת צפויה להיות ההתחלה, אבל המחלוקות על ממשלת מיעוט עשויות להקשות על המשך הדרך. זו העמדה של כל מפלגה",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-0W9RYDLB-ik-CV77_L6a",
-      "title": "הניח עובר ללא רוח חיים בכניסה לבית חולים, ונעצר בבית כנסת",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-21T15:14:19.000Z",
-      "url": "https://www.ynet.co.il/news/article/h181u8u3ge",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "שוטרי מחוז ירושלים הוזעקו לשערי צדק, לאחר דיווח על אדם בשנות ה-30 לחייו, שהשאיר בכניסה למקום עובר מת. מעט אחר כך, נעצר החשוד בבית כנסת בשכונת קריית היובל בעיר. גם אשתו עוכבה לחקירה. השניים ישוחררו כנראה, מקורבים להם: \"האישה הפילה את העובר בבית. הבעל פנה לאנשי ביטחון, ולא קיבל מענ…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
