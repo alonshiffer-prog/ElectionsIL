@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-03T19:33:02.661Z",
+  "updatedAt": "2026-11-04T01:27:02.253Z",
   "stories": [
+    {
+      "id": "ynet-spXo7BUKSqzkgY5mAxIa",
+      "title": "קרב על כל מושב: סופרים קולות בבחירות האמצע בארה\"ב | עדכון חי",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-04T01:17:33.000Z",
+      "url": "https://www.ynet.co.il/news/article/bjtzcmdazl",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "תחנות ההצבעה נסגרו כבר ב-30 מדינות, כשהדמוקרטים חולמים על \"גל כחול\" בבית הנבחרים ומהפך בסנאט, שיגביל את מרחב התמרון של טראמפ בשנתיים האחרונות לכהונתו – אולי גם מול איראן. המתח מתנקז ל-6 מרוצי מפתח מטקסס ועד אלסקה, העיניים נשואות גם למישיגן: עבדול אל-סייד האנטי-ישראלי עשוי להפוך ל…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-gOuj4q_bCb7EjheBElHv",
+      "title": "הבוחרים ששינו צד: \"אסתום את האף, אצביע לאל-סייד\" | הלילה - התוצאות בארה\"ב",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-03T21:13:21.000Z",
+      "url": "https://www.ynet.co.il/news/article/byvwjndtgg",
+      "category": "סקרים",
+      "parties": [],
+      "people": [],
+      "excerpt": "ynet יעביר הלילה את תוצאות ההצבעה בבחירות האמצע, שבהן חוזים הסקרים שהדמוקרטים יכבשו את הקונגרס ויהפכו את טראמפ ל\"ברווז צולע\" בשנתיים הבאות. הנשיא \"לא שולל בשיחות פרטיות את התרחיש הגרוע ביותר\", יו\"ר בית הנבחרים הרפובליקני דווקא מביע אופטימיות: \"נדהים את העולם, כמו ב-2024\". במישיגן…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-NmrzMxlDc6iOgcK1JMim",
       "title": "בלי להציג ראיות: \"ראש השב\"כ מבקש לחקור באזהרה את טיבי, עבאס ויו\"ר בל\"ד\"",
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "איזנקוט אומר כי ישראל \"חייבת שינוי מסלול עכשיו\", נתניהו מפנה לטראמפ \"שאמר שיחסל את איראן רק איתי\", בנט מדגיש את הנבחרת ש\"מוכנה מהיום הראשון\", גולן מצהיר ש\"עכשיו הגיע הרגע שלנו\" ובן גביר טוען ש\"כולם מודים שצדקתי\". יומיים לבחירות, כל המועמדים מסבירים למה כדאי לבחור דווקא בהם",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-UXQ7E3SMmBh_L_byBvP5",
-      "title": "אובמה בעד מועמד אנטי-ישראלי: \"עבדול נלחם לשינוי\"; טראמפ: \"ג'יהאדיסט\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-25T06:02:43.000Z",
-      "url": "https://www.ynet.co.il/news/article/s1jlolo3gg",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "בעצרת בחירות בדטרויט הופיע הנשיא לשעבר לצד עבדול א-סייד, שרוצה להיות הסנאטור המוסלמי הראשון בתולדות ארה\"ב, ותקף את טראמפ על המלחמה נגד איראן: \"לא היה לה נשק גרעיני כי הגעתי להסכם שמנע ממנה להשיג אותו\". א-סייד, שבעבר הסתייג מאובמה, זוכה לתמיכת בכירי הדמוקרטים ולמיליוני דולרים. טרא…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-3GsYVuclNRg2eICUWRTQ",
-      "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-      "source": "The Guardian",
-      "author": "Seham Tantesh in Gaza and Lorenzo Tondo",
-      "publishedAt": "2026-10-25T06:00:54.000Z",
-      "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-      "category": "סקרים",
-      "parties": [],
-      "people": [],
-      "excerpt": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas rule As Israel prepares to go to the polls, Palestinians in Gaza are bracing for an outcome that could shape their future, knowing their fate rests with the country that has r…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
