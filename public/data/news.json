@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-08T19:44:09.763Z",
+  "updatedAt": "2026-11-09T00:58:01.337Z",
   "stories": [
+    {
+      "id": "ynet-9Vial4dpACMC22c7Qbj0",
+      "title": "טראמפ התייחס לראשונה להטלת המנדט על איזנקוט: \"דומה מאוד לנתניהו\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-09T00:05:25.000Z",
+      "url": "https://www.ynet.co.il/news/article/hjom7kc6fe",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "לאחר שתמך בנתניהו בבחירות בטענה כי זה \"השותף שארה\"ב רוצה\", טראמפ נשמע נחרץ פחות. \"נראה מה יהיה\", אמר. \"הם מאוד דומים במדיניות ובעמדות שלהם. איזנקוט אמר שהוא אוהב אותי\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-smuv77AtHsd9L7-gxGbr",
+      "title": "צה\"ל והאלימות היהודית ביו\"ש: אלוף הטירוף",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-08T22:02:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14952232",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "אפשר היה לחשוב שלפחות בצה\"ל יקלטו את הרמזים העבים שהגיעו מאירופה ובשבוע שעבר גם מבחירות האמצע בארה\"ב: הרעילות של ישראל אינה נובעת רק מהפיאסקו באיראן והקטל בעזה, אלא גם מההפקרות בגדה המערבית",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-fO9khjb5YU5aS54QgazC",
+      "title": "מי ימצמץ ראשון: איזנקוט יצטרך לשחק צ'יקן עם השותפים בגוש",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-08T20:18:50.000Z",
+      "url": "https://www.ynet.co.il/news/article/hyagsvcpzl",
+      "category": "מפלגות חרדיות",
+      "parties": [],
+      "people": [],
+      "excerpt": "\"השותפים\" בודקים כבר חלופות: יו\"ר ישר! קיבל את המנדט, אך מאחורי הקלעים כבר מתחדדים המתחים עם ראשי הגוש, שמסרבים להתיישר מאחורי מנהיגותו. אחת מתוך 3 הבטחות הבחירות שנתנו - בלי נתניהו, בלי חרדים ובלי ערבים - תצטרך להישבר. האפשרות שיקים ממשלה בלי תמיכתם - והזעם בחדרי חדרים",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-gIxJe2ng10uZCT7J_CMm",
       "title": "דיווח: העיתונאי ופעיל בל\"ד שנחשד במגע עם סוכן זר נשאל בשב\"כ על פוליטיקה",
@@ -4156,48 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "אחרי יום של אחוזי הצבעה ששברו שיאים, לאף צד אין 61 מנדטים: הקלפיות נסגרו, ולפי מדגמי 11, 12 ו-13 הליכוד אמנם נשארה המפלגה הגדולה ביותר - אבל גוש השינוי הוא זה שמוביל - נתוני כל המדגמים",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-q0N444cxUsl3Eho5hyOD",
-      "title": "המפלגות הערביות בדרך לשיא היסטורי: אחוזי ההצבעה שהובילו לזינוק הדרמטי",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-27T20:09:32.000Z",
-      "url": "https://www.ynet.co.il/news/elections2026/article/syyu4or2ze",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "מ-10 ל-16 עד 18 מנדטים לפי המדגמים: עד השעה 20:00, באום אל פחם כבר כמעט והכפילו את שיעור ההצבעה ביחס לבחירות האחרונות. בסכנין 83.5%, בכפר קאסם וברהט הצביעו סביב 80%, התוצאה: זינוק חד בכוח של המפלגות הערביות. במטה הרשימה המשותפת חגגו: \"השגנו את המטרה!\"",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-WVoAEsGL1WMXZQZuFmJL",
-      "title": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
-      "source": "The Guardian",
-      "author": "Emma Graham-Harrison in Efrat, Julian Borger in Nazareth and Quique Kierszenbaum in Jerusalem",
-      "publishedAt": "2026-10-27T19:47:03.000Z",
-      "url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-      "category": "סקרים",
-      "parties": [],
-      "people": [],
-      "excerpt": "Bereaved families tell voters to remember the victims while others have flown thousands of miles to cast their ballots Election day in Israel began with a protest by some of the voters with most at stake. Bereaved families of those killed in the 7 October attacks held a minute of…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-jb4NBFTaPydAe1J35lSM",
-      "title": "Israeli candidates cast their votes in consequential election – video",
-      "source": "The Guardian",
-      "author": "",
-      "publishedAt": "2026-10-27T18:36:45.000Z",
-      "url": "https://www.theguardian.com/world/video/2026/oct/27/israeli-presidential-candidates-cast-their-votes-in-consequential-election-video",
-      "category": "סקרים",
-      "parties": [],
-      "people": [],
-      "excerpt": "Politicians cast their votes as Israel holds its first election since the Hamas-led attacks of 7 October 2023. Polls suggest prime minister Benjamin Netanyahu's coalition bloc with the ultra-Orthodox and far-right will lose their majority to Netanyahu's main rival, Gadi Eisenkot,…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
