@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-14T10:36:37.829Z",
+  "updatedAt": "2026-11-14T18:13:19.822Z",
   "stories": [
+    {
+      "id": "ynet-y0bux6vz2mkcwtj_xCI5",
+      "title": "נתניהו לאיזנקוט: \"ניכנס לחדר בלי תנאים מוקדמים - ונגיע להסכמות\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-14T17:04:17.000Z",
+      "url": "https://www.ynet.co.il/news/article/b19v4mirfe",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "בנאום מוקלט אמר רה\"מ כי איראן \"לא תהסס להשתמש בנשק גרעיני\", וכי שיחת העדכון הביטחוני עם איזנקוט \"חיזקה אצלי את ההבנה כמה הכרחי להקים בעת הזו ממשלת אחדות עם כל המפלגות שתומכות בקיומה של מדינת ישראל כמדינת העם היהודי\". מקורביו על סוגיית הרוטציה: \"אין תנאים מוקדמים, בחדר ידברו על הכ…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-V1ajBHuVilPtOelIitsO",
+      "title": "\"לא נאפשר את מסיבת האשליות\": האזהרה של ישראל ביתנו לגוש השינוי",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-14T14:42:42.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14956224",
+      "category": "מפלגות חרדיות",
+      "parties": [],
+      "people": [],
+      "excerpt": "7 שנים אחרי שטרפד לנתניהו ממשלה בגלל החרדים, ליברמן שוב מחזיק את המפתח לשלטון - והפעם משנה כיוון. בישראל ביתנו פוסלים הישענות על המפלגות הערביות ומכשירים את הקרקע לדיל מפתיע עם יהדות התורה וש\"ס, גם במחיר של הליכה נגד רצון בוחריהם. בעיני ח\"כ פורר, לפחות, הוא דווקא פתר לגוש השינוי …",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-CoCEjdLzGZZy2SMYMUqo",
+      "title": "התמונה שלהם ריגשה את המדינה: \"נתנו לאנשים תקווה\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-14T14:42:06.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14956741",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "בריאיון מיוחד אחרי שהושבעו כחברי הכנסת ה-26, שירה שפירא - אימו של גיבור מיגונית המוות ענר - ואלישע מדן, שאיבד את שתי רגליו בעזה, מדברים על המשותף משני צידי המתרס הפוליטי ועל הרגע שבו צולמו זה לצד זו: \"אנחנו צריכים להשליך את הרימונים החוצה, נגד מי שרוצה ברעתנו, ולא אחד על השני\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "guardian-israel-AZU8y3tQ5UBtNz3GrXWw",
+      "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+      "source": "The Guardian",
+      "author": "William Christou",
+      "publishedAt": "2026-11-14T11:11:03.000Z",
+      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "category": "מפלגות ערביות",
+      "parties": [],
+      "people": [],
+      "excerpt": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the car…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-E0fP73mHeiE_vRdZKn80",
       "title": "ביידן נגד נתניהו: \"הבטיח דברים שלא התכוון לקיים, דאג לעצמו ולא לישראל\"",
@@ -156,20 +212,6 @@
       "cluster": null
     },
     {
-      "id": "ynet-V1ajBHuVilPtOelIitsO",
-      "title": "\"לא נאפשר את מסיבת האשליות\": האזהרה של ישראל ביתנו",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/yokra14956224",
-      "category": "מפלגות חרדיות",
-      "parties": [],
-      "people": [],
-      "excerpt": "7 שנים אחרי שטרפד לנתניהו ממשלה בגלל החרדים, ליברמן שוב מחזיק את המפתח לשלטון - והפעם משנה כיוון. בישראל ביתנו פוסלים הישענות על המפלגות הערביות ומכשירים את הקרקע לדיל מפתיע עם יהדות התורה וש\"ס, גם במחיר של הליכה נגד רצון בוחריהם. בעיני ח\"כ פורר, לפחות, הוא דווקא פתר לגוש השינוי …",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
       "id": "ynet-OVQFYaJgXuMX9SiG9Dwl",
       "title": "שעת חירום: ישראל במשבר אסטרטגי עמוק ומחריף",
       "source": "ynet",
@@ -180,20 +222,6 @@
       "parties": [],
       "people": [],
       "excerpt": "ברית בסיכון: ניצחון הדמוקרטים בבחירות והידרדרות ישראל בדעת הקהל בארה\"ב עלולים להוביל לסנקציות ולסכן את ביטחון המדינה | פעולה: הממשלה הבאה תיבחן בעצירת טרור יהודי, מהלך מדיני וגמילת הציבור מהשקרים | זמן מצוינות: זו העת להחזיר לשירות המדינה את המצטיינים, לא רק את הייצוגיים והקלים ל…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-CoCEjdLzGZZy2SMYMUqo",
-      "title": "\"אנחנו מביאים תקווה שיכול להיות כאן טוב יותר, שכולנו נצמח מתוך השבר\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "url": "https://www.ynet.co.il/news/article/yokra14956741",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "שירה שפירא ממפלגת ישר, אמו של גיבור מיגונית המוות ענר שפירא, ואלישע מדן מהליכוד, שאיבד את שתי רגליו ברצועת עזה, הושבעו השבוע כח\"כים - שניים מתוך נציגי 7 באוקטובר בכנסת ה–26 | בריאיון מיוחד, מדברים האם השכולה ופצוע המלחמה על המשותף משני צידי המתרס הפוליטי: \"הרבה פעמים זורקים את הר…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "לגוש של יו\"ר ישר! אין 61, אבל בהקלטה שהעביר לבוחריו אמר: \"אפעל לממש את רצון העם ולהקים ממשלה חדשה וטובה\". הוא לא פירט איזו ממשלה הוא מתכנן להקים. בגוש שלו אין תמימות דעים לגבי הסתמכות על המפלגות הערביות",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-17o5IZqVBZXtrEe1MBm5",
-      "title": "המהפך הפוליטי בסרביה: מנהלת הטלוויזיה התפטרה, הקריין התנצל על שנים של סיקור חד-צדדי",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-29T16:00:52.000Z",
-      "url": "https://www.ynet.co.il/news/article/skjly1wazx",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "אלכסנדר ווצ'יץ' הובס בבחירות אחרי 12 שנה, ונציגי \"מחאת הסטודנטים\" שסומנו ע\"י שופרותיו כבוגדים ואויבי המדינה פונים לסגור חשבונות. מנהלת רשות השידור הממלכתית RTS, שהפסיקה לדווח אחרי הודעת ההפסד של ווצ'יץ' ו\"העלימה\" את חגיגות האלפים בבלגרד, הודיעה על פרישה, עשרות פרצו למשרדי הערוץ I…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-fAzXoLRg-HNVcomVes_N",
-      "title": "חיים ביבס שייעץ לנתניהו בבחירות קורא לממשלת אחדות: \"הציבור מיצה סבבים\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-29T15:53:12.000Z",
-      "url": "https://www.ynet.co.il/news/article/h19m71w6fe",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "ביבס, ראש מרכז השלטון המקומי, צירף לקריאה את שי חג'ג', ראש מרכז השלטון האזורי שמזוהה גם הוא עם הליכוד והיה בפורום שייעץ על השריונים. הם אמרו כי ישראל נדרשת לרציפות תפקודית והנהגה יציבה: \"מחלוקת לא יכולה להפוך לחרם קבוע, הבדלים אידיאולוגיים לא יכולים להיות תירוץ לשיתוק המערכת\"",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
