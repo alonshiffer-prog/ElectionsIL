@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-15T16:25:26.771Z",
+  "updatedAt": "2026-11-15T22:55:23.282Z",
   "stories": [
+    {
+      "id": "ynet-Y6Gfdto3smBRYVLSSMwn",
+      "title": "\"זה עכשיו או לעולם לא\": הקולות מ\"מאהל האחדות\" של אלישע מדן",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-15T19:45:28.000Z",
+      "url": "https://www.ynet.co.il/news/article/hyyrw00drzl",
+      "category": "מפלגות",
+      "parties": [],
+      "people": [],
+      "excerpt": "בסמוך למאהל שהקים אתמול הח\"כ מהליכוד בקריאה לממשלת אחדות, הוקמו מול הכנסת כבר 6 אוהלים נוספים. שלמה מכפר אדומים שובת רעב וקורא לפשרות: \"עכשיו זה המאני טיים, גם שנתניהו יהיה מספר 2\". עתניאל בן ה-18 קובע: \"זה עלינו הצעירים\". מדן הציג שלט שנכתב ע\"י לוחם שנפל: \"בטוח שהזעקה משפיעה\"",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-WMZb2lH50m3plklKK5lk",
+      "title": "דיווח: חשד שלשכת רה\"מ שתלה מידע על \"גניבת בחירות\"; זיני ביקש האזנות לח\"כים",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-15T18:33:38.000Z",
+      "url": "https://www.ynet.co.il/news/article/skr004dw0fe",
+      "category": "קמפיינים",
+      "parties": [],
+      "people": [],
+      "excerpt": "ראש הסגל של נתניהו לא רק התלונן על פעילי רע\"מ - אלא גם הפנה את המשטרה ל\"מקור מודיעיני\" שעבד בעבר בלשכת רה\"מ ומקורב ליוסי שלי. כך דווח בעובדה. הפשיטה בוצעה ללא צו, בחקירה לא עלה דבר, וכעת נבדק אם המידע הושתל כדי לחזק את קמפיין \"גניבת הבחירות\". לשכת רה\"מ: \"הגיע מידע - וראש הסגל חיב…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-Rm0n5oWoj4vLelyS_adq",
+      "title": "יו\"ר יהדות התורה: אין כל שחר לדיווחים על התקדמות דרמטית עם גוש השינוי",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-15T18:01:23.000Z",
+      "url": "https://www.ynet.co.il/news/article/ryyjbdvamg",
+      "category": "מפלגות חרדיות",
+      "parties": [],
+      "people": [],
+      "excerpt": "בעקבות דיווחים על כך שנרשמה התקדמות במגעים במו\"מ עם הגוש בהובלת איזנקוט, הכחיש יעקב אשר: \"כוזבים ומגמתיים\". אחרי שנפגש עם איזנקוט בחשאי, טען כי \"גם העצות שמגיעות ממפלגות אחרות\" נשענות על אותם דיווחים",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-R2H0x40U0OlfXsfaNo0N",
       "title": "האופסייד של גדי",
@@ -53,7 +95,7 @@
       "category": "תרחישי קואליציה",
       "parties": [],
       "people": [],
-      "excerpt": "נציגי ישר, ביחד והליכוד נפגשו לראשונה מאז הבחירות במשך שעה ורבע במלון בהרצליה ודנו בתנאים לממשלת אחדות - ללא התקדמות. הסתירה: גם איזנקוט וגם נתניהו לא מוכנים להקים ממשלה כשהשני עומד בראשה, ושניהם גם פוסלים לפי שעה רוטציה. חלק מגוש השינוי מתנגד בחריפות למהלך, גולן: \"יש הכרעה ברורה…",
+      "excerpt": "נציגי ישר, ביחד והליכוד נפגשו לראשונה מאז הבחירות במשך שעה ורבע במלון בהרצליה ודנו בתנאים לממשלת אחדות - ללא התקדמות, אך עם הודעה משותפת. הסתירה: גם איזנקוט וגם נתניהו לא מוכנים להקים ממשלה כשהשני עומד בראשה, ושניהם גם פוסלים לפי שעה רוטציה. חלק מגוש השינוי מתנגד בחריפות למהלך, ג…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     },
@@ -4156,48 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-k11tiUiKsX56GOrv-LgC",
-      "title": "ועדת הבחירות: חקירת שב\"כ לא משפיעה על התוצאות - ולא מתייחסת למגזר כלשהו",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-29T22:57:10.000Z",
-      "url": "https://www.ynet.co.il/news/article/hynlqsbaze",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "בהצהרה לילית אמר מ\"מ מנכ\"ל הוועדה עו\"ד דין ליבנה כי \"דיווחים שפורסמו במהלך היום - אינם מבוססים כלל. לכשתושלם החקירה, ממצאיה יוגשו ליו\"ר, ויוודאו מימדיה והשלכותיה\". הוועדה גם אישרה בהודעתה את תוצאות האמת הסופיות, \"בכפוף לתיקונים קלים\"",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-m13FBspeHyjOFwVGlI_o",
-      "title": "במרחק נגיעה: המועמדים שנותרו מחוץ לכנסת ה-26",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-10-29T22:26:29.000Z",
-      "url": "https://www.ynet.co.il/news/article/bjhq1411pfx",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "מפת המנדטים המעודכנת חשפה את 120 חברי הכנסת החדשים שיושבעו בעוד כשבועיים - וגם את אלו שנשארו בחוץ. אם לא יהיו שינויים, הלוחם שזכה לתמיכת נתניהו, הקצין הבכיר מעוטף עזה, אחד ממנהיגי המחאה הבולטים והמגיש מתחנות הרדיו לא יצטרפו לחבריהם במשכן",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-w44zPPn5tQMU7EHdyyQp",
-      "title": "Can Israel's opposition parties work with Palestinians to oust Netanyahu? | Explainer",
-      "source": "The Guardian",
-      "author": "Naomi Schanen Rafqa Touma Emma Graham-Harrison Albert Villa Alsina John Farrell",
-      "publishedAt": "2026-10-29T22:12:24.000Z",
-      "url": "https://www.theguardian.com/world/video/2026/oct/29/can-israels-opposition-parties-work-with-palestinians-to-oust-netanyahu-explainer",
-      "category": "מפלגות ערביות",
-      "parties": [],
-      "people": [],
-      "excerpt": "Israeli elections led to prime minister Benjamin Netanyahu's far-right coalition losing its majority after four years in power. While Israel's Palestinian-led parties have expressed a clear desire for a Jewish-Arab partnership, most of the opposition ruled out a coalition. Former…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
