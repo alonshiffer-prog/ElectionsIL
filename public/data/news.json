@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-19T20:44:35.373Z",
+  "updatedAt": "2026-11-20T02:22:50.600Z",
   "stories": [
+    {
+      "id": "ynet-zvIXHS65SWFOrHZpwQgA",
+      "title": "\"אצלנו הפשע הפך לנורמה. לכן חשוב לנו כל כך להיות בקואליציה\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-19T22:00:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14962871",
+      "category": "תרחישי קואליציה",
+      "parties": [],
+      "people": [],
+      "excerpt": "הרימון שהרג את לינא קאסם זידאן, לאור יום ומחוץ לקונדיטוריה ותיקה בלב כיכר הומה, הותיר בהלם את כפר–מנדא כולו | \"הרגשנו כאילו נפל טיל\", מספר בעל עסק סמוך. \"אין פה משטרה והפשע הוא נורמה\" | משפחתה של לינא זועמת על ההזנחה הממשלתית: \"מי נתן לפשע להשתולל? לפני 20 שנה זה היה אחרת\" | וראש…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
+    {
+      "id": "ynet-A0lxlhTw3R-q5yS2-EJg",
+      "title": "אמיר אוחנה: \"הייתי יו\"ר כנסת ניצי נגד ההגמוניה. מתן כהנא כבר נכשל בתפקיד\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-19T22:00:00.000Z",
+      "url": "https://www.ynet.co.il/news/article/yokra14963274",
+      "category": "משפט וממשל",
+      "parties": [],
+      "people": [],
+      "excerpt": "יזכרו אותו בעיקר כאחד ממובילי המאבק במערכת המשפט, אבל הוא לא מתכוון להתנצל: \"נלחמתי בסיאוב ואני גאה בכך\". בריאיון פרישה מהכס הוא נזכר ברגע הכי מרגש (אבל גם הכי מדכא), מודה בטעות בקידום הרפורמה (אבל עדיין תוקף את נשיא העליון) וקורא לאחדות (אבל לא נרתע מלהצהיר: \"אם תקום קואליציה שת…",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-3s5msM2yX0sJ2vt4FhXa",
       "title": "\"אני לא MAGA, מרגיש טיפש\": החרטה של אילון מאסק - ואזהרת טראמפ",
@@ -4170,34 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "ראש הממשלה אמנם לא התבטא פומבית בנושא, אך כשנשאל על כך בדלתיים סגורות השיב בניגוד למסרים של בכירי מפלגתו: \"אנחנו בודקים הכול. אני לא שולל לחלוטין שום אופציה\". הסיבה: בליכוד חוששים שגוש השינוי ילך עם \"הערבים והחרדים, ואפילו עם ש\"ס\", וזו לטענתם ממשלה שיכולה להחזיק קדנציה שלמה",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "ynet-MK6KmdIthg710PjMQhOr",
-      "title": "טראמפ מחפש אשמים בכישלון המלחמה באיראן: \"בוחן את תפקוד הגסת' וקיין\"",
-      "source": "ynet",
-      "author": "",
-      "publishedAt": "2026-11-02T04:31:30.000Z",
-      "url": "https://www.ynet.co.il/news/article/bjd0rus6zx",
-      "category": "ביטחון",
-      "parties": [],
-      "people": [],
-      "excerpt": "\"אטלנטיק\": נשיא ארה\"ב זועם על התמשכות המערכה, שיועציו הבטיחו שתסתיים בניצחון מהיר - וחושש מהמחיר הפוליטי לקראת בחירות האמצע מחר. מקורביו טוענים כי שר ההגנה מציג בפניו תמונה אופטימית מדי: \"אומר לו מה שהוא רוצה לשמוע\". טראמפ שוקל לחדש את התקיפות מיד אחרי הבחירות - ובוחן תוכניות למת…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "guardian-israel-PAVa4D_NwTulm5IrSPhX",
-      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-      "source": "The Guardian",
-      "author": "Chris Hippensteel and Marina Dunbar",
-      "publishedAt": "2026-11-02T00:12:17.000Z",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of her party’s nominee on…",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
