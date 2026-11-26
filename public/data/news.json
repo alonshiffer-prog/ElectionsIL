@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-25T19:22:47.752Z",
+  "updatedAt": "2026-11-26T03:37:38.635Z",
   "stories": [
+    {
+      "id": "ynet-TrWxrfFwxmpHzGrKcX7y",
+      "title": "נשבר שיא ההגירה לאיים הספרדיים, תינוק נולד באמצע המסע: \"צריכים סיוע צבאי\"",
+      "source": "ynet",
+      "author": "",
+      "publishedAt": "2026-11-25T20:29:05.000Z",
+      "url": "https://www.ynet.co.il/news/article/byf11154yqx",
+      "category": "ביטחון",
+      "parties": [],
+      "people": [],
+      "excerpt": "ימים ספורים לפני הבחירות בספרד, שבהן סוגיית ההגירה עומדת באחד ממוקדי המחלוקת בין מנהיג האופוזיציה מהימין לראש הממשלה האנטי-ישראלי, הגיעו אתמול כ-2,000 מהגרים מאפריקה לאיים הקנריים - באחד מנתיבי ההגירה הקטלניים בעולם. דיווח: אחד המהגרים נהרג, בארכיפלג דורשים עזרה מהצבא",
+      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
+      "cluster": null
+    },
     {
       "id": "ynet-nl021zGljZ-6M7kWSf47",
       "title": "הליכוד הגישה ערעור רשמי על תוצאות הבחירות ב-120 קלפיות",
@@ -4184,20 +4198,6 @@
       "parties": [],
       "people": [],
       "excerpt": "עבד אבו שחאדה נעצר לאחר שראיין בקטאר את עזמי בשארה, לטענתו כחלק מעבודה עיתונאית. המשטרה: \"הוא לא עיתונאי\". כעת נחשף ב-ynet כי שמו עלה גם בפרשת בל\"ד מלפני עשור, שם נחקרו הלבנות כספים למפלגה מחו\"ל - ובה לא היה חשוד. מדובב שהופעל אז העיד: \"המבריח סיפר איך הועבר כסף מעזמי בשארה לחשבו…",
-      "excerptLabel": "קטע מתיאור ה־RSS של המקור",
-      "cluster": null
-    },
-    {
-      "id": "bbc-aGoIygsbtK6p1qFbn-mF",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "source": "BBC News",
-      "author": "",
-      "publishedAt": "2026-11-04T16:59:15.000Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "category": "מפלגות",
-      "parties": [],
-      "people": [],
-      "excerpt": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
       "excerptLabel": "קטע מתיאור ה־RSS של המקור",
       "cluster": null
     }
